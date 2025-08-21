@@ -21,4 +21,4 @@ Changes in the value of residential properties
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

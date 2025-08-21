@@ -22,4 +22,4 @@ Power plants that use the process of nuclear fission to generate electricity
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk #Tag/Energy #Tag/Infrastructure
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -19,4 +19,4 @@ A designated zone where there is known or suspected archaeological interest, req
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

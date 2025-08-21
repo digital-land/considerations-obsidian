@@ -20,4 +20,4 @@ Identification of potentially harmful elements (PHEs) that under certain circums
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

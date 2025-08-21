@@ -22,4 +22,4 @@ Zones that provide additional protection to safeguard drinking water quality
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/ControlledWaters #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

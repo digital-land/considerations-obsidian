@@ -22,4 +22,4 @@ Places, spaces, and buildings where cultural activities take place.
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Culture #Tag/Heritage #Tag/Infrastructure
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

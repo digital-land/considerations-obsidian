@@ -22,4 +22,4 @@ Structures created for worship
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Heritage #Tag/LocalPlan #Tag/PDR
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

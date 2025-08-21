@@ -20,4 +20,4 @@ Geographically unique areas of the UK
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

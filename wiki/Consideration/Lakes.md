@@ -22,4 +22,4 @@ Large areas of fresh water surrounded by land
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/ControlledWaters #Tag/Landscape
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -35,4 +35,4 @@ A guarantee that a building or buildings will not be newly listed or given a bui
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown #Tag/Heritage #Tag/Opportunity
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

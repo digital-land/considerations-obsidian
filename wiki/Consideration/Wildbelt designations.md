@@ -22,4 +22,4 @@ Land currently of low biodiversity value that is designated for nature's recover
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/LocalPlan
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

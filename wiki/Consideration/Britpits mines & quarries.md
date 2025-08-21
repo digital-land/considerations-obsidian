@@ -20,4 +20,4 @@ BritPits (an abbreviation of British Pits), include both surface and underground
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

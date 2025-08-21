@@ -40,4 +40,4 @@ Areas at risk from flooding from rivers or the sea
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Quarterly #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Quarterly #OS/Unknown

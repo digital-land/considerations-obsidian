@@ -23,4 +23,4 @@ Green space or greenspace is an area of undeveloped land in an urban context whi
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Constraint #Tag/Heritage #Tag/Landscape
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

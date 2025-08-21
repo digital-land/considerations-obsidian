@@ -23,4 +23,4 @@ The existing railway network.
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/Constraint #Tag/Infrastructure #Tag/LocalPlan #Tag/NIST
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

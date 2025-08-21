@@ -20,4 +20,4 @@ Tool to show pollution levels in a particular site or region, through determinin
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Environmental #Tag/LocalInformation
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

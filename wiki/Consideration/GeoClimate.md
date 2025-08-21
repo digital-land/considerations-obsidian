@@ -21,4 +21,4 @@ Maps and data showing potential change in subsidence due to changes in climate
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

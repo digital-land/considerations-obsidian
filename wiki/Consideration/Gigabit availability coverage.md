@@ -21,4 +21,4 @@ The coverage of where wifi download speeds of 1,000mbps (megabits per second) ar
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Data #Tag/NIST
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

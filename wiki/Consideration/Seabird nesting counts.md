@@ -20,4 +20,4 @@ Counts of breeding seabirds
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

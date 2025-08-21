@@ -56,4 +56,4 @@ The boundary of the area relating to a listed building which is protected becaus
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/PresumptionToPublish #Tag/Constraint #Tag/Footnote7 #Tag/Heritage #Tag/LocalLandCharge #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/PresumptionToPublish

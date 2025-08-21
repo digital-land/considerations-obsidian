@@ -25,4 +25,4 @@ Local development orders (LDOs) provide permitted development rights for specifi
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

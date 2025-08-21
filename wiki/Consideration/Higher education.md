@@ -21,4 +21,4 @@ Both undergraduate and postgraduate courses, typically attended in higher educat
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Education #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -34,4 +34,4 @@ Areas of Greater London where there is significant known archaeological interest
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Quarterly #OS/Unknown #Tag/Constraint #Tag/Heritage #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Co-Design #UpdateFrequency/Quarterly #OS/Unknown

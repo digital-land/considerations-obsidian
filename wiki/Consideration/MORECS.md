@@ -17,4 +17,4 @@ Evaporation and soil moisture deficit for the UK (Meteorological Office rainfall
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

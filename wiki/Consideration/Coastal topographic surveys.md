@@ -20,4 +20,4 @@ Surveys covering beaches, dunes, cliffs, saltmarshes and coastal defence structu
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/LocalInformation
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

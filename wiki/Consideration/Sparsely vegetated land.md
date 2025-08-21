@@ -20,4 +20,4 @@ Environments where plants are slow to establish and easily disturbed
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

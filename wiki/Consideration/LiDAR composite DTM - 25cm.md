@@ -21,4 +21,4 @@ useful-links:
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

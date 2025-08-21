@@ -20,4 +20,4 @@ A coal mining area that could contain unrecorded hazards
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

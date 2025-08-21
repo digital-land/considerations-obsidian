@@ -17,4 +17,4 @@ High resolution elevation information of underwater terrain
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

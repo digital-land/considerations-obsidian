@@ -18,4 +18,4 @@ Scanned images of the records of all onshore Great Britain (or near shore) boreh
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

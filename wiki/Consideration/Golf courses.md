@@ -21,4 +21,4 @@ Large areas of grass specially designed for people to play golf on
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

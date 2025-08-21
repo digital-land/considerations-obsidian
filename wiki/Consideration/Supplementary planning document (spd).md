@@ -19,4 +19,4 @@ Detailed advice or guidance on policies in an adopted local plan, and a material
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

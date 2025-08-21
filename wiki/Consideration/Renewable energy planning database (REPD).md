@@ -17,4 +17,4 @@ Progress tracking of UK renewable electricity projects over 150kW
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

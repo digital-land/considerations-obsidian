@@ -59,4 +59,4 @@ A Design Code is a set of design requirements providing specific parameters for 
 
 ## Tags
 
-#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown

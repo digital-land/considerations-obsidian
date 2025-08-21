@@ -23,4 +23,4 @@ The UK Biodiversity Action Plan (UK BAP) refers to a number of priority habitats
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/LocalPlan
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

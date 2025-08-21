@@ -19,4 +19,4 @@ Through the LURA, supplementary plans were introduced (as a replacement for 'sup
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -20,4 +20,4 @@ Specialist locations where waste is taken to be sorted, separated, and recycled
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

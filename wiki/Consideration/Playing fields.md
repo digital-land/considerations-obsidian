@@ -23,4 +23,4 @@ Land in the open air provided for physical education or recreation
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Leisure #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

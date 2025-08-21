@@ -17,4 +17,4 @@ Areas of green space for the benefit of local communities created to celebrate t
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

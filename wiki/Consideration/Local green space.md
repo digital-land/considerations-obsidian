@@ -31,4 +31,4 @@ Protected green areas demonstrably special to the local community, whether in a 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Community #Tag/Constraint #Tag/Footnote7 #Tag/Landscape #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

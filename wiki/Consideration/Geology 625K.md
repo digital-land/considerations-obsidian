@@ -22,4 +22,4 @@ Data identifying landscape areas (shown as polygons) attributed with geological 
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -31,4 +31,4 @@ Legal requirement to preserve the view of a specific place or historic building 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Landscape #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

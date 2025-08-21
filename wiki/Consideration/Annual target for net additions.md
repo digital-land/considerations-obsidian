@@ -21,4 +21,4 @@ The total housing requirement presented on an annual basis for the plan period a
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/HousingSupplyAndDelivery #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

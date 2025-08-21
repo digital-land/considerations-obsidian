@@ -21,4 +21,4 @@ This is the minimum number of homes that the plan seeks to provide during the pl
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/HousingSupplyAndDelivery #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

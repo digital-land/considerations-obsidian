@@ -20,4 +20,4 @@ A corridor of native plants that connects different areas of habitat, providing 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

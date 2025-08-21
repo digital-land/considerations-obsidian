@@ -21,4 +21,4 @@ Historic sites that are most at risk of being lost as a result of neglect, decay
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Heritage #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

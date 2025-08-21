@@ -22,4 +22,4 @@ Regionally important geological sites (RIGS) are the most important designated s
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

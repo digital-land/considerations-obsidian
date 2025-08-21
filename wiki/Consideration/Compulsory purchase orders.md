@@ -22,4 +22,4 @@ Orders that allow a public authority to acquire land without the consent of the 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalInformation #Tag/LocalLandCharge
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

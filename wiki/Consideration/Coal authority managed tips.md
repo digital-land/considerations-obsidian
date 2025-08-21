@@ -22,4 +22,4 @@ Disused colliery tip sites owned and managed by the Coal Authority
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

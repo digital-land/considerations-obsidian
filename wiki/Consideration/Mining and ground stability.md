@@ -32,4 +32,4 @@ Potential ground stability hazards from mining activities
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

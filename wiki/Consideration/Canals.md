@@ -22,4 +22,4 @@ Human-made waterways that allow boats and ships to pass from one body of water t
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/ControlledWaters #Tag/Infrastructure
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

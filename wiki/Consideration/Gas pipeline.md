@@ -24,4 +24,4 @@ Gas pipelines are wide-diameter, long-distance pipelines that transport natural 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk #Tag/Infrastructure #Tag/LocalLandCharge
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

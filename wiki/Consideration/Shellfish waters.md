@@ -20,4 +20,4 @@ Areas designated for the protection of shellfish growth and production
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

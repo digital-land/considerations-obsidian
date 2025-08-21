@@ -20,4 +20,4 @@ Areas over 1km walking distance from Sites of importance for Nature Conservation
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalInformation #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

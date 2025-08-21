@@ -17,4 +17,4 @@ Buildings of great historical or artistic value that have protection to prevent 
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

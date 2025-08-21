@@ -19,4 +19,4 @@ To determine the minimum number of homes needed, strategic policies should be in
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/HousingSupplyAndDelivery
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

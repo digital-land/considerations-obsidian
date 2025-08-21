@@ -17,4 +17,4 @@ Locations and estimated extents of probable shallow coal mines for which no reco
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

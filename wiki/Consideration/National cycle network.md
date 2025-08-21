@@ -23,4 +23,4 @@ The UK-wide network of signed paths and routes for walking, wheeling, and cyclin
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Connectivity #Tag/Infrastructure #Tag/LocalPlan #Tag/NIST
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

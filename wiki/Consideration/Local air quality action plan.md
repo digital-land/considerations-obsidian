@@ -23,4 +23,4 @@ Plan that outlines local action to improve air quality
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Environmental #Tag/LocalInformation #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

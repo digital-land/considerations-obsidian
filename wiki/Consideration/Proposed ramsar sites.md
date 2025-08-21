@@ -32,4 +32,4 @@ Proposed boundaries of wetlands of international importance
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

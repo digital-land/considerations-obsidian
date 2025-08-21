@@ -23,4 +23,4 @@ Specific geographical areas that are represented by each MP in the House of Comm
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/Boundary
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

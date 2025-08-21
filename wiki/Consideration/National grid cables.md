@@ -30,4 +30,4 @@ Locations of national electricity transmission network cables
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Energy #Tag/Infrastructure #Tag/LicensingRestriction #Tag/NIST
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

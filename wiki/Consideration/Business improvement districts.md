@@ -20,4 +20,4 @@ Business Improvement Districts are business led partnerships which are created t
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

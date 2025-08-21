@@ -38,4 +38,4 @@ Areas of open space that have been used for recreation by the inhabitants of the
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/Landscape
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

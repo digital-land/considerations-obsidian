@@ -26,4 +26,4 @@ The system of roads classification that all UK roads (excluding motorways) fall 
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/Infrastructure #Tag/LocalLandCharge
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

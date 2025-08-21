@@ -19,4 +19,4 @@ Areas where the Coal Authority recommends a mining search report is required for
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

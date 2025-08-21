@@ -17,4 +17,4 @@ These are the information requirements, set out in legislation and the NPPF, for
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

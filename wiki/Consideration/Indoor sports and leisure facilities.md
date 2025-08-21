@@ -22,4 +22,4 @@ Multi-sports building where a range of sport and recreational activities can tak
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Leisure #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -31,4 +31,4 @@ All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental
+#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown

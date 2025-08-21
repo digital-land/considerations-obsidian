@@ -34,4 +34,4 @@ Buildings or pieces of land that are used for the social wellbeing and interests
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown #Tag/Community #Tag/Constraint #Tag/LocalLandCharge
+#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

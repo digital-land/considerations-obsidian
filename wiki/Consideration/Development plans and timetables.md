@@ -56,4 +56,4 @@ The status of emerging and current local plans and other development plans for l
 
 ## Tags
 
-#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown

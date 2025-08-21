@@ -21,4 +21,4 @@ Areas designated as being at risk from agricultural nitrate pollution
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/ControlledWaters #Tag/Environmental #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

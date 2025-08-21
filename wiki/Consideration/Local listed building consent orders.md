@@ -25,4 +25,4 @@ their area.
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

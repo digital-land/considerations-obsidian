@@ -28,4 +28,4 @@ Defined areas identified and selected for their nature conservation value
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

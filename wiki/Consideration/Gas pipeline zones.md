@@ -21,4 +21,4 @@ Zones which require proper selection and installation of apparatus to be used sa
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk #Tag/Infrastructure
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

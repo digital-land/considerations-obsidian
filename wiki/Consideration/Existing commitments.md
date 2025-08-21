@@ -21,4 +21,4 @@ The number of homes, within the Total Housing Requirement that are committed dev
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/HousingSupplyAndDelivery #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

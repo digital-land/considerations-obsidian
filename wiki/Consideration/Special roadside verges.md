@@ -21,4 +21,4 @@ Uncultivated areas of grassland next to roads in an intensively farmed landscape
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

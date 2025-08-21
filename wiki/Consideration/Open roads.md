@@ -26,4 +26,4 @@ High-level view of the road network, from motorways to country lanes
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Connectivity #Tag/Infrastructure #Tag/NIST
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

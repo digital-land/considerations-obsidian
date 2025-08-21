@@ -19,4 +19,4 @@ Tall buildings over 50m
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

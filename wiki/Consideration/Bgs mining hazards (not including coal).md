@@ -20,4 +20,4 @@ The potential for hazards due to underground (non-coal) mining
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

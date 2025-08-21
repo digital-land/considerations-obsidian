@@ -18,4 +18,4 @@ A natural or artificial channel through which water flows
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

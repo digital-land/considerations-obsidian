@@ -32,4 +32,4 @@ The indicative shapes and positions of each boundary of registered titles for la
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Monthly #OS/Unknown #Tag/Boundary
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Monthly #OS/Unknown

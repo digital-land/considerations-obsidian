@@ -17,4 +17,4 @@ Location, extent and function of retail areas
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

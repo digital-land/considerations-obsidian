@@ -21,4 +21,4 @@ Documents that set a date when work on a new building or conversion should be co
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/PlanningPermission
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

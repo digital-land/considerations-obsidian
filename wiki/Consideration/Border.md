@@ -27,4 +27,4 @@ The boundary of England as provided by the ONS for the purposes of producing sta
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/Boundary
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

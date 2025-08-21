@@ -19,4 +19,4 @@ Agreements in place to drain buildings in combination into an existing sewer thr
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/PlanningPermission
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -20,4 +20,4 @@ Options for amending proposals that have planning permission
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/PlanningPermission
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -19,4 +19,4 @@ Events that may cause harm or potential harm to an environmental aspect (air, wa
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

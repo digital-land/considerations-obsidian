@@ -20,4 +20,4 @@ Areas of land and sea, made up of one or more neighbouring river basins together
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/ControlledWaters #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

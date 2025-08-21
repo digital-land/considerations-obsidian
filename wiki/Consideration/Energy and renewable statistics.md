@@ -21,4 +21,4 @@ tags:
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Energy #Tag/Infrastructure #Tag/Statistics
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

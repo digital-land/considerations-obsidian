@@ -27,4 +27,4 @@ Sites with special status as protected areas because of their natural and cultur
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/LocalLandCharge
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

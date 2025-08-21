@@ -44,4 +44,4 @@ An Article 4 direction is made by the local planning authority to remove all or 
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/PresumptionToPublish #Tag/Constraint #Tag/ODP #Tag/PDR #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/PresumptionToPublish

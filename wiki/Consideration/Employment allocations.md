@@ -26,4 +26,4 @@ Sites that have been identified for employment use
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan #Tag/Opportunity
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

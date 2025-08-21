@@ -21,4 +21,4 @@ National Trust land that the public has access to on foot only
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Heritage #Tag/Landscape
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

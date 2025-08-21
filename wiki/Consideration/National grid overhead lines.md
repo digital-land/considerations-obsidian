@@ -27,4 +27,4 @@ Electrical cables that transmit electricity across the country
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Energy #Tag/Infrastructure #Tag/LicensingRestriction #Tag/NIST
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

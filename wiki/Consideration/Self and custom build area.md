@@ -26,4 +26,4 @@ Plots for custom and self-build homes
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan #Tag/Opportunity
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

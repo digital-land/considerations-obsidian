@@ -22,4 +22,4 @@ Areas of very smooth, short grass on which the game of bowls or lawn bowling is 
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Infrastructure #Tag/Leisure
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

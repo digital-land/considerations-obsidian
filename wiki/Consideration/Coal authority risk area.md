@@ -21,4 +21,4 @@ Areas which contain recorded features which could cause risk from the legacy of 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

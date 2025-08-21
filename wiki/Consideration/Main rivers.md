@@ -33,4 +33,4 @@ Designated larger rivers and streams
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/ControlledWaters #Tag/Environmental #Tag/Infrastructure
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

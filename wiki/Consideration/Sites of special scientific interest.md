@@ -36,4 +36,4 @@ A protected area that’s of particular interest to science due to rare species 
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/AdHoc #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Research #UpdateFrequency/AdHoc #OS/Unknown

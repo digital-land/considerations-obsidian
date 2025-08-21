@@ -40,4 +40,4 @@ Designed landscapes of special historical interest because of their layout, feat
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown #Tag/Constraint #Tag/Footnote7 #Tag/Heritage #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

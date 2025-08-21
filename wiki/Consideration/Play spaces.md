@@ -23,4 +23,4 @@ Children's play provision, including local areas for play (LAP), locally equiped
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Leisure #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

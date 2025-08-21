@@ -45,4 +45,4 @@ Major infrastructure projects such as new harbours, roads, power generating stat
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/NSIP #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

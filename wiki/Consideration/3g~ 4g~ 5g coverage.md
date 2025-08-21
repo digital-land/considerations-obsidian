@@ -22,4 +22,4 @@ Coverage of mobile phone networks
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Infrastructure #Tag/NIST
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

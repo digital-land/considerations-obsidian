@@ -26,4 +26,4 @@ Unique Street Reference Number (USRN) is an 8 digit unique identifier for every 
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Weeks #OS/Unknown #Tag/Connectivity #Tag/Data #Tag/Infrastructure
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Weeks #OS/Unknown

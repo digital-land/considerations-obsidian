@@ -20,4 +20,4 @@ A detailed and accurate measure of the accessibility of a point to the public tr
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

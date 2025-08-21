@@ -35,4 +35,4 @@ A building recognised by the local authority (but not nationally) as having loca
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Footnote7 #Tag/Heritage #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

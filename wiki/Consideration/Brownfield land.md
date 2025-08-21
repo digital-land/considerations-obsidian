@@ -39,4 +39,4 @@ Previously developed land that's no longer being used
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown #Tag/LocalPlan #Tag/Opportunity
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown

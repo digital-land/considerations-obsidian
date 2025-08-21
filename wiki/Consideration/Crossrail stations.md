@@ -17,4 +17,4 @@ Stations on the train route linking Reading and Heathrow in the west with Shenfi
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -17,4 +17,4 @@ Building where medical and surgical treatment and nursing care for sick or injur
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -20,4 +20,4 @@ Open OS product that maps every administrative boundary in detail for you
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Every6Months #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Every6Months #OS/Unknown

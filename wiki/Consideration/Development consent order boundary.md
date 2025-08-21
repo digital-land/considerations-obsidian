@@ -17,4 +17,4 @@ The boundary of the nationally significant infrastructure project (NSIP), which 
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

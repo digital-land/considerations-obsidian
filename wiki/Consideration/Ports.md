@@ -21,4 +21,4 @@ A maritime facility comprising one or more wharves or loading areas, where ships
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/Infrastructure
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

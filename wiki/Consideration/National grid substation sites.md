@@ -27,4 +27,4 @@ Locations of national electricity transmission substations
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Energy #Tag/Infrastructure #Tag/LicensingRestriction #Tag/NIST
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

@@ -18,4 +18,4 @@ Sites storing or handling large quantities of chemicals or hazardous substances 
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

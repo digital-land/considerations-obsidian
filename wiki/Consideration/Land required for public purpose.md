@@ -22,4 +22,4 @@ Land reserved for a public purpose under a planning scheme
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/SafeguardedLand
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

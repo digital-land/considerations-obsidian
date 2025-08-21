@@ -20,4 +20,4 @@ Nature reserves and discovery centres managed and protected by Essex Wildlife Tr
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

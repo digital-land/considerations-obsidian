@@ -22,4 +22,4 @@ Housing need is an unconstrained assessment of the minimum number of homes neede
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/HousingSupplyAndDelivery #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

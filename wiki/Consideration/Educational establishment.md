@@ -34,4 +34,4 @@ Educational establishments in the UK including nurseries, primary and secondary 
 
 ## Tags
 
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Weekly #OS/Unknown #Tag/Amenity #Tag/Connectivity #Tag/LocalPlan
+#Consideration #Stage/TestAndIterate #UpdateFrequency/Weekly #OS/Unknown

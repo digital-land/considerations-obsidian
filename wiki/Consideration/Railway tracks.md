@@ -22,4 +22,4 @@ The structures that trains run on
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/Constraint #Tag/Infrastructure #Tag/NIST
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -36,4 +36,4 @@ Areas where wildlife, plants and animals are protected to allow them to thrive
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

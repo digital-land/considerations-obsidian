@@ -21,4 +21,4 @@ The presence of passenger and cargo airports in the UK.
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/Constraint #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

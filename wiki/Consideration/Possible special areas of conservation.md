@@ -25,4 +25,4 @@ Sites on which Government has initiated public consultation on the scientific ca
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/Footnote7
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

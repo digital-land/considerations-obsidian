@@ -24,4 +24,4 @@ Also known as ultrafast full fibre broadband, this involves laying fibre optic c
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Infrastructure #Tag/LocalPlan #Tag/NIST
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

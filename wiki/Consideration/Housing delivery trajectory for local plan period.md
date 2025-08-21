@@ -20,4 +20,4 @@ A year by year breakdown of how it is intended for the LPA to deliver their hous
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/HousingSupplyAndDelivery #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

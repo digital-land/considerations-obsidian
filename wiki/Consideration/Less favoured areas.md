@@ -19,4 +19,4 @@ Remote and constrained rural areas where funding is provided to farming business
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalInformation
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

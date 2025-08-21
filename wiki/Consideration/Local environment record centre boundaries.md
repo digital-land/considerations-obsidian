@@ -20,4 +20,4 @@ Local Environmental Records Centre (LERC) areas
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Boundary
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

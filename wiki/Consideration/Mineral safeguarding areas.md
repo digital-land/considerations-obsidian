@@ -27,4 +27,4 @@ Areas where known deposits of minerals are safeguarded
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/LocalPlan #Tag/SafeguardedLand
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

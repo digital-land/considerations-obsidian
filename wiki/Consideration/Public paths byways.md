@@ -22,4 +22,4 @@ Tracks and paths open to the public
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/Constraint #Tag/Infrastructure #Tag/LocalLandCharge
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

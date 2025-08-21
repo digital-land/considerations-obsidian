@@ -29,4 +29,4 @@ element of ensuring industry pays.
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/Levy
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

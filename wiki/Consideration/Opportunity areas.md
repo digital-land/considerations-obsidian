@@ -22,4 +22,4 @@ London’s principal opportunities for accommodating large scale development to 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/LocalPlan #Tag/Opportunity #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

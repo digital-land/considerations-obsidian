@@ -39,4 +39,4 @@ An area containing bird habitats and species that need conservation
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

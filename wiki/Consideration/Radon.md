@@ -30,4 +30,4 @@ A naturally occurring radioactive gas which may be found in high concentrations 
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown #Tag/DevelopmentRisk #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

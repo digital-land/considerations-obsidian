@@ -20,4 +20,4 @@ Buildings which store firefighting equipment, such as fire engines and hoses, as
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Infrastructure #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -22,4 +22,4 @@ Sites where archaeological remains are discovered, and require conservation
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Heritage
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

@@ -17,4 +17,4 @@ Characteristics of the upper 2–3 m of the geology beneath our feet
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -17,4 +17,4 @@ Train route linking Reading and Heathrow in the west with Shenfield and Abbey Wo
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

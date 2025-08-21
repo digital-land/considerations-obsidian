@@ -27,4 +27,4 @@ The smallest type of local government administrative area in England
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown #Tag/Boundary #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown

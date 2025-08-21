@@ -20,4 +20,4 @@ Data about sites where they are expected to come forward to build-out within the
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/HousingSupplyAndDelivery #Tag/LocalPlan
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

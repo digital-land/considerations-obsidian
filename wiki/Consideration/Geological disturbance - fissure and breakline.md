@@ -17,4 +17,4 @@ Fissures are a crack or opening in rock or the earth created by mining  and brea
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

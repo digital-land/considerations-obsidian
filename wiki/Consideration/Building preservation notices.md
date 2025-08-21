@@ -30,4 +30,4 @@ A notice to stop un-listed buildings of special architectural or historic intere
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown #Tag/Constraint #Tag/Heritage
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

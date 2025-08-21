@@ -49,4 +49,4 @@ Records of applications for development and the associated decisions
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Daily #OS/Unknown #Tag/PlanningPermission
+#Consideration #Stage/Co-Design #UpdateFrequency/Daily #OS/Unknown

@@ -19,4 +19,4 @@ Listed buildings that have been de-listed
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Heritage
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

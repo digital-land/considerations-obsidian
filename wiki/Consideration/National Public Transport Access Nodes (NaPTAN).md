@@ -34,4 +34,4 @@ All public transport access points where you can get on or off public transport
 
 ## Tags
 
-#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown #Tag/Amenity #Tag/Connectivity #Tag/Infrastructure #Tag/NIST
+#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown

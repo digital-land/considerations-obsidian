@@ -26,4 +26,4 @@ The planning department of the district or borough council
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown #Tag/Boundary #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

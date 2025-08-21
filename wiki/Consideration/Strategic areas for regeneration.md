@@ -21,4 +21,4 @@ These areas are the Census Local Super Output Areas (LSOAs) in greatest socio-ec
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan #Tag/Opportunity #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

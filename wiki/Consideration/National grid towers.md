@@ -26,4 +26,4 @@ Structural supports, known as pylons, that carry the UK’s network of high-volt
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Energy #Tag/Infrastructure #Tag/LicensingRestriction
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

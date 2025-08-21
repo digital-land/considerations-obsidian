@@ -25,4 +25,4 @@ There are 14 licensed Distribution Network Operators (DNOs) in Britain and each 
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/Boundary #Tag/Energy
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

@@ -19,4 +19,4 @@ The period of consultation where views on the proposed development can be commun
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/PlanningPermission
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

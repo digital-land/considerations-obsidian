@@ -40,4 +40,4 @@ Central areas of London with implications for planning designated by the Greater
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

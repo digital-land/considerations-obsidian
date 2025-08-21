@@ -17,4 +17,4 @@ Overview of the likelihood of 6 naturally occurring geohazards
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

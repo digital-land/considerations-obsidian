@@ -17,4 +17,4 @@ Map identifying areas of potential shrinking and swelling of the ground in 3D in
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

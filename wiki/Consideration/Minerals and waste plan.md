@@ -21,4 +21,4 @@ Locations for future minerals extraction (such as sand and gravel pits or crushe
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/LocalPlan #Tag/SafeguardedLand
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

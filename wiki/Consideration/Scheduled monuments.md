@@ -33,4 +33,4 @@ A site that's legally protected because of its historical importance
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown #Tag/Constraint #Tag/Footnote7 #Tag/Heritage #Tag/LocalLandCharge #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

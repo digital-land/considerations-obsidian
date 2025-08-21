@@ -54,4 +54,4 @@ An area of special architectural or historic interest with a character or appear
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/PresumptionToPublish #Tag/Constraint #Tag/Footnote7 #Tag/Heritage #Tag/LocalLandCharge #Tag/LocalPlan #Tag/ODP #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/PresumptionToPublish

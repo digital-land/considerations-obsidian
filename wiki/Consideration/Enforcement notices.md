@@ -20,4 +20,4 @@ tags:
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalLandCharge #Tag/PlanningPermission
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

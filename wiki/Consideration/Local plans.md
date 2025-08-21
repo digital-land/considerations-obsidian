@@ -40,4 +40,4 @@ useful-links:
 
 ## Tags
 
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/TestAndIterate #UpdateFrequency/Unknown #OS/Unknown

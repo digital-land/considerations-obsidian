@@ -30,4 +30,4 @@ Protected land that might be needed to build the HS2 railway
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/LocalPlan #Tag/PoliciesMap #Tag/SafeguardedLand
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

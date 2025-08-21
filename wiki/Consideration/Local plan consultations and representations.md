@@ -25,4 +25,4 @@ useful-links:
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

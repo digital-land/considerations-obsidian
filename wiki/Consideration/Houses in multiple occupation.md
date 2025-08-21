@@ -17,4 +17,4 @@ A property rented out by at least 3 people who are not from one 'household' (for
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalLandCharge
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

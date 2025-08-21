@@ -17,4 +17,4 @@ An initial indication of the suitability of the ground for infiltration SuDS
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

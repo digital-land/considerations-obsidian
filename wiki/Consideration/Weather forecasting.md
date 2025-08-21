@@ -21,4 +21,4 @@ A prediction of what the weather will be like in an hour, tomorrow, or further i
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

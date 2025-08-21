@@ -20,4 +20,4 @@ tags:
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Landscape
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

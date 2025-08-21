@@ -20,4 +20,4 @@ A "Statement of Community Involvement" (SCI) is a document issued by a local cou
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/PlanningPermission
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

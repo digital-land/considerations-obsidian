@@ -22,4 +22,4 @@ adverse effect on a neighbourhood
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalInformation
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

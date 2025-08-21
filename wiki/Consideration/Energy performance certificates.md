@@ -25,4 +25,4 @@ Certificates that contain:
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Data #Tag/Energy
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

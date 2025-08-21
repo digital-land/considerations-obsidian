@@ -26,4 +26,4 @@ A habitat map derived from airborne data, specifically CASI and LIDAR data. The 
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown #Tag/BNG #Tag/Environmental
+#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown

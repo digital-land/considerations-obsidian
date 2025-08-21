@@ -17,4 +17,4 @@ Records of boreholes, shafts and wells from all forms of drilling and site inves
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

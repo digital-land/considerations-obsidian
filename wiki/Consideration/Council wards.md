@@ -36,4 +36,4 @@ Local areas that have been divided for voting purposes
 
 ## Tags
 
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Quarterly #OS/Unknown #Tag/Boundary #Tag/LocalPlan
+#Consideration #Stage/TestAndIterate #UpdateFrequency/Quarterly #OS/Unknown

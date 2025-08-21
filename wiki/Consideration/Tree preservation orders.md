@@ -48,4 +48,4 @@ The order document that protects a tree or group of trees
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/PresumptionToPublish #Tag/Constraint #Tag/Environmental #Tag/LocalLandCharge
+#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/PresumptionToPublish

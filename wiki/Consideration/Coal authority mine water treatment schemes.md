@@ -20,4 +20,4 @@ Locations where mine water is treated to improve water quality in polluted river
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Environmental #Tag/LocalInformation
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

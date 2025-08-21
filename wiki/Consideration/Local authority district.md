@@ -28,4 +28,4 @@ The geographic area that a local government body is responsible for
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown #Tag/Boundary #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

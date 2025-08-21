@@ -22,4 +22,4 @@ A cemetery provided and maintained by a burial authority
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Constraint #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

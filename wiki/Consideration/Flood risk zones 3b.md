@@ -33,4 +33,4 @@ Flood risk zone 3b, or the 'functional floodplain' is land where water has to fl
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

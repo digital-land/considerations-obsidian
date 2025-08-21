@@ -26,4 +26,4 @@ Areas identified as being globally important for the conservation of bird popula
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/LicensingRestriction
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

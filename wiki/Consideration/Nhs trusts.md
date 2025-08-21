@@ -20,4 +20,4 @@ An organisational unit within the NHS that serves either a geographical area or 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Boundary
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

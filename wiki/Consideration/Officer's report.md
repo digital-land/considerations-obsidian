@@ -17,4 +17,4 @@ The report written by a planning officer containing all the information about ho
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

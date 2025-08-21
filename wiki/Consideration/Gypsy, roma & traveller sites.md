@@ -33,4 +33,4 @@ An area of land where gypsy, Roma and traveller communities live which may be ow
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

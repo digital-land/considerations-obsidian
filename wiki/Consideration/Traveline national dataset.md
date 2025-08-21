@@ -17,4 +17,4 @@ Public transport timetables for bus, light rail, tram and ferry services
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

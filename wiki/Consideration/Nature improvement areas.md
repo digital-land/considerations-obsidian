@@ -33,4 +33,4 @@ Areas of the country where partnerships have been set up to enhance the natural 
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown #Tag/BNG #Tag/Boundary #Tag/Environmental
+#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown

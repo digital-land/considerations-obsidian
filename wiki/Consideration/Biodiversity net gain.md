@@ -23,4 +23,4 @@ Biodiversity net gain (BNG) is a strategy to develop land and contribute to the 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Environmental #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

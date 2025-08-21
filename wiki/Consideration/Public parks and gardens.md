@@ -23,4 +23,4 @@ Accessible, high quality opportunities for informal recreation and community eve
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Constraint #Tag/Leisure #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

@@ -21,4 +21,4 @@ Land that is enclosed as part of a National Trust estate and public access is li
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Heritage #Tag/Landscape
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

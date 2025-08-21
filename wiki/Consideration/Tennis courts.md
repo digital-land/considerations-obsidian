@@ -22,4 +22,4 @@ Courts or areas with a net across the middle used for playing tennis
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Leisure #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

@@ -23,4 +23,4 @@ Agricultural areas which need special protection because of its landscape, wildl
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

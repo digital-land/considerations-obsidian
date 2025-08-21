@@ -31,4 +31,4 @@ A summary of financial contributions councils have secured through section 106 a
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown #Tag/Data #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown

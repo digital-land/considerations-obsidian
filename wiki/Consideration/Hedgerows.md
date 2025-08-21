@@ -24,4 +24,4 @@ Any boundary line of trees or shrubs over 20m long and less than 5m wide
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Environmental
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

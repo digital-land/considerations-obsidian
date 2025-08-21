@@ -17,4 +17,4 @@ Shallow coal mine workings are derived from the Coal Authority’s records of un
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

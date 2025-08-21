@@ -40,4 +40,4 @@ Financial or physical contributions from developers towards the cost of providin
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/Levy #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

@@ -23,4 +23,4 @@ Protected squares in London that should only be used as ornamental gardens, plea
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

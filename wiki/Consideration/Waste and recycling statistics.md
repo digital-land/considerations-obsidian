@@ -20,4 +20,4 @@ Information on waste generation and management
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Statistics
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

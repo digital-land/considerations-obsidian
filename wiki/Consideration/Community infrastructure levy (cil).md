@@ -25,4 +25,4 @@ The Community Infrastructure Levy (CIL) is a charge which can be levied by local
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown #Tag/Levy #Tag/LocalInformation #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

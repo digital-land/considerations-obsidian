@@ -38,4 +38,4 @@ An area of open land around a city that cannot be built on
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/Constraint #Tag/Footnote7 #Tag/Landscape #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

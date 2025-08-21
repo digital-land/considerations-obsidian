@@ -32,4 +32,4 @@ A natural or man-made site, area, or structure that is protected because of its 
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/Constraint #Tag/Footnote7 #Tag/Heritage #Tag/LocalPlan
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

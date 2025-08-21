@@ -21,4 +21,4 @@ Local planning authorities must publish information at least annually, monitorin
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown

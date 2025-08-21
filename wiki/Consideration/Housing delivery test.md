@@ -25,4 +25,4 @@ Data centrally compiled by MHCLG to assess whether LPAs are meeting their housin
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown #Tag/HousingSupplyAndDelivery #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown

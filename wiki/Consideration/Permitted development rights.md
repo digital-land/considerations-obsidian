@@ -38,4 +38,4 @@ The right to carry out certain building works and changes of use without the nee
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Quarterly #OS/Unknown #Tag/Opportunity
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Quarterly #OS/Unknown

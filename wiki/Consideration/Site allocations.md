@@ -24,4 +24,4 @@ Areas identified as sites for housing, employment, retail or green space to be d
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown #Tag/HousingSupplyAndDelivery #Tag/LocalPlan #Tag/Opportunity #Tag/PoliciesMap
+#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown

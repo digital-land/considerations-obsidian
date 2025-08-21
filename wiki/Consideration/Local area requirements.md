@@ -32,4 +32,4 @@ Requirements (sometimes known as validation checklists) that set out supporting 
 
 ## Tags
 
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Annually #OS/Unknown #Tag/PlanningPermission
+#Consideration #Stage/TestAndIterate #UpdateFrequency/Annually #OS/Unknown

@@ -20,4 +20,4 @@ Details of local archaeological sites and finds, historic buildings and historic
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Heritage
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

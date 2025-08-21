@@ -32,4 +32,4 @@ A tree that is of interest biologically, culturally or aesthetically because of 
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/LicensingRestriction #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

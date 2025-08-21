@@ -40,4 +40,4 @@ Areas that have been wooded continuously since at least 1600 AD
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Monthly #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Monthly #OS/Unknown

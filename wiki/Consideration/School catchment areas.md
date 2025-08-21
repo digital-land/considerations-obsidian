@@ -22,4 +22,4 @@ Geographical area surrounding a school from which it will usually take most of i
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Amenity #Tag/Connectivity #Tag/Education #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -17,4 +17,4 @@ Scheme to reduce motor vehicle traffic in residential streets
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

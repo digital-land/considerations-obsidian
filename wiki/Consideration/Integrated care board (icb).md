@@ -20,4 +20,4 @@ Partnerships between the NHS, councils and the voluntary sector to improve healt
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Boundary #Tag/Health
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

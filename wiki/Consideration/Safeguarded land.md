@@ -25,4 +25,4 @@ A planning mechanism to make sure land which has been identified for development
 
 ## Tags
 
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/LocalPlan #Tag/SafeguardedLand
+#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

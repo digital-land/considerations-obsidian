@@ -24,4 +24,4 @@ Specific routes the public have a legal right to use across land that may be own
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown #Tag/Connectivity #Tag/Constraint #Tag/Infrastructure #Tag/LocalLandCharge
+#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

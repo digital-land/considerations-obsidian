@@ -21,4 +21,4 @@ Timetable data for several mainland UK coach services not contained in the Trave
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

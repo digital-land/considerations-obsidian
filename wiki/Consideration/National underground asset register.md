@@ -24,4 +24,4 @@ The Geospatial Commission, part of the Department for Science, Innovation and Te
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/DevelopmentRisk #Tag/Infrastructure
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

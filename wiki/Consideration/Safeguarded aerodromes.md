@@ -24,4 +24,4 @@ Areas designed to protect aircraft from obstacles when manoeuvring on the ground
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

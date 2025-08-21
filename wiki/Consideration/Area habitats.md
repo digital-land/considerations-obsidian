@@ -22,4 +22,4 @@ Habitats recorded in the biodiversity metric tool in area (hectares) used to cal
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Environmental
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

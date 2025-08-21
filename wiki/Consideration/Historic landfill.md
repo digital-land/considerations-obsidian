@@ -27,4 +27,4 @@ Sites where there is no PPC (Pollution Prevention and Control) permit or waste m
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk #Tag/Environmental #Tag/LicensingRestriction
+#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown

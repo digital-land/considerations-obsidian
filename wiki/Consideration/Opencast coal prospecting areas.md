@@ -21,4 +21,4 @@ Areas of opencast coal prospecting sites.
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/DevelopmentRisk #Tag/LocalLandCharge
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

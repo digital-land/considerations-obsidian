@@ -19,4 +19,4 @@ Sites that have protection through legislation in recognition of biodiversity an
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

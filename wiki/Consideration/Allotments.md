@@ -24,4 +24,4 @@ Land used by communities for growing vegetables, fruit, herbs or flowers which i
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Leisure #Tag/LocalInformation #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

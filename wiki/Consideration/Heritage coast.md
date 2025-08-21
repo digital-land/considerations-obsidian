@@ -34,4 +34,4 @@ A stretch of undeveloped coast designated for conservation
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/Footnote7 #Tag/Heritage #Tag/Landscape #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

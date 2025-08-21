@@ -40,4 +40,4 @@ A system that grades the quality of land for agricultural use
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/LocalPlan #Tag/PoliciesMap
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

@@ -19,4 +19,4 @@ Specifically used by local planning authorities when considering releasing green
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Opportunity
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

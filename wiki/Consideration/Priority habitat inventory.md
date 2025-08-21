@@ -22,4 +22,4 @@ Geographic extent and location of habitats of principal importance
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/BNG #Tag/Constraint #Tag/Environmental #Tag/Footnote7
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

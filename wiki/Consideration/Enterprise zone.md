@@ -20,4 +20,4 @@ Areas where commercial and industrial businesses can get incentives to set up or
 
 ## Tags
 
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan #Tag/Opportunity
+#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

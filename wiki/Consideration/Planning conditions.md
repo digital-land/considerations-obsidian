@@ -54,4 +54,4 @@ Conditions attached to the granting of planning permission to ensure that the de
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Daily #OS/Unknown #Tag/LocalLandCharge #Tag/PlanningPermission
+#Consideration #Stage/Co-Design #UpdateFrequency/Daily #OS/Unknown

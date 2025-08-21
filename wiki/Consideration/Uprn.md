@@ -24,4 +24,4 @@ Unique Property Reference Number (UPRN) is the unique identifier for every addre
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Weeks #OS/Unknown #Tag/Data
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Weeks #OS/Unknown

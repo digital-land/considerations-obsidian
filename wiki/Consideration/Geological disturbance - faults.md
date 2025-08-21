@@ -17,4 +17,4 @@ Lines of discontinuity in bedrock where rocks have moved relative to each other
 
 ## Tags
 
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown #Tag/
+#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -20,4 +20,4 @@ A plan prepared by a parish council or neighbourhood forum for a designated neig
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/LocalPlan
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

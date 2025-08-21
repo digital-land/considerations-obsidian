@@ -35,4 +35,4 @@ Land where substances are causing or could cause:
 
 ## Tags
 
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown #Tag/Constraint #Tag/Environmental #Tag/LocalPlan #Tag/Opportunity
+#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -36,4 +36,4 @@ Areas registered with Historic England as a battlefield of historical significan
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown #Tag/Constraint #Tag/Footnote7 #Tag/Heritage
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

@@ -22,4 +22,4 @@ Courts and greens comprising natural or artificial surfaces, including tennis co
 
 ## Tags
 
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown #Tag/Amenity #Tag/Leisure #Tag/LocalPlan
+#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

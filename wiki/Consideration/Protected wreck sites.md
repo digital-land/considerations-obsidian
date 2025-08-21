@@ -29,4 +29,4 @@ The restricted area around the wreck of a nationally important vessel to prevent
 
 ## Tags
 
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown #Tag/Constraint #Tag/Footnote7 #Tag/Heritage
+#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown
