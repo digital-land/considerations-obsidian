@@ -96,7 +96,7 @@ if __name__ == "__main__":
             headers.get("frequency-of-updates", "Unknown"), "UpdateFrequency/"
         )
         content += " #" + asTag(os_status or "Unknown", "OS/")
-        content += " " + " ".join([f"#{tag}" for tag in headers["tags"]])
+        #content += " " + " ".join([f"#{tag}" for tag in headers["tags"]])
 
         # create note
         post = Post(content, **headers)
