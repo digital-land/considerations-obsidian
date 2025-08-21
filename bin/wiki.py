@@ -61,43 +61,44 @@ if __name__ == "__main__":
 
         headers["tags"] = sorted(headers["tags"])
 
-        # content
-        content = f"# Consideration/{headers['name']}\n\n"
-        content += f"{row['description']}\n"
-
-        content += "\n## Links\n\n"
-        content += f"* [{headers['name']} consideration](https://design.planning.data.gov.uk/planning-consideration/{headers['slug']})\n"
+        links = "\n## Links\n\n"
+        links += f"* [{headers['name']} consideration](https://design.planning.data.gov.uk/planning-consideration/{headers['slug']})\n"
 
         if "github-discussion-number" in headers:
-            content += f"* [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/{headers['github-discussion-number']})\n"
+            links += f"* [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/{headers['github-discussion-number']})\n"
         if "legislation" in headers:
-            content += f"* [Legislation]({headers['legislation']})\n"
+            links += f"* [Legislation]({headers['legislation']})\n"
 
         if "os-declaration" not in headers:
             os_status = None
         else:
             os_status = headers['os-declaration']['status']
-            content += f"* [{os_status}]({headers['os-declaration']['further_information_url']})\n"
+            links += f"* [{os_status}]({headers['os-declaration']['further_information_url']})\n"
 
         if "useful-links" in headers:
             for link in headers["useful-links"]:
-                content += f"* [{link['link_text']}]({link['link_url']})\n"
+                links += f"* [{link['link_text']}]({link['link_url']})\n"
 
         # cited datasets
-        if headers.get("datasets", ""):
-            content += "\n## Datasets\n\n"
+        if not headers.get("datasets", ""):
+            datasets = "" 
+        else:
+            datasets = "\n## Datasets\n\n"
             for dataset in headers["datasets"]:
-                content += f"* [[{dataset}]]\n"
+                datasets += f"* [[{dataset}]]\n"
 
-        content += "\n## Tags\n\n"
-        content += "#Consideration"
-        content += " #" + asTag(headers.get("stage", "Unknown"), "Stage/")
-        content += " #" + asTag(headers.get("prioritised", "Unknown"), "Prioritised/")
-        content += " #" + asTag(
+        tags = "#Consideration"
+        tags += " #" + asTag(headers.get("stage", "Unknown"), "Stage/")
+        tags += " #" + asTag(headers.get("prioritised", "Unknown"), "Prioritised/")
+        tags += " #" + asTag(
             headers.get("frequency-of-updates", "Unknown"), "UpdateFrequency/"
         )
-        content += " #" + asTag(os_status or "Unknown", "OS/")
-        #content += " " + " ".join([f"#{tag}" for tag in headers["tags"]])
+        tags += " #" + asTag(os_status or "Unknown", "OS/")
+        #tags += " " + " ".join([f"#{tag}" for tag in headers["tags"]])
+
+        # content
+        content = f"{tags}\n\n{row['description']}\n{links}{datasets}"
+
 
         # create note
         post = Post(content, **headers)
