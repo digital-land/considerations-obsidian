@@ -19,7 +19,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1ULS_aunj8r-Iv5kZ5IelEM_wBGxfS98bKXn4X7hvXkg/edit#heading=h.lb9do641w06g
 ---
 
-# Consideration/National nature reserves
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Areas where wildlife, plants and animals are protected to allow them to thrive
 
@@ -33,7 +33,3 @@ Areas where wildlife, plants and animals are protected to allow them to thrive
 ## Datasets
 
 * [[national-nature-reserve]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

@@ -9,7 +9,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Bgs soil chemistry for environmental assessments
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Identification of potentially harmful elements (PHEs) that under certain circumstances can be harmful to plants, animals or people
 
@@ -17,7 +17,3 @@ Identification of potentially harmful elements (PHEs) that under certain circums
 
 * [Bgs soil chemistry for environmental assessments consideration](https://design.planning.data.gov.uk/planning-consideration/bgs-soil-chemistry-for-environmental-assessments)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/117)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

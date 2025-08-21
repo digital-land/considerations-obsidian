@@ -15,7 +15,7 @@ useful-links:
   link_url: https://public.tableau.com/views/SWHertsDigitalPlacePortrait/DASH_RiversandSurfaceWater?%3AshowVizHome=no
 ---
 
-# Consideration/Drinking water safeguard zone
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Drinking Water Groundwater Safeguard Zones (SgZs) are established around public water supplies where additional pollution control measures are needed.
 
@@ -24,7 +24,3 @@ Drinking Water Groundwater Safeguard Zones (SgZs) are established around public 
 * [Drinking water safeguard zone consideration](https://design.planning.data.gov.uk/planning-consideration/drinking-water-safeguard-zone)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/151)
 * [SWHerts public tableau](https://public.tableau.com/views/SWHertsDigitalPlacePortrait/DASH_RiversandSurfaceWater?%3AshowVizHome=no)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -8,7 +8,7 @@ tags:
 - Tag/Heritage
 ---
 
-# Consideration/Previously listed buildings
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Listed buildings that have been de-listed
 
@@ -16,7 +16,3 @@ Listed buildings that have been de-listed
 
 * [Previously listed buildings consideration](https://design.planning.data.gov.uk/planning-consideration/previously-listed-buildings)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/230)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

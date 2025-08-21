@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Community halls
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Community halls are available to the public for community-related recreational activities.
 
@@ -18,7 +18,3 @@ Community halls are available to the public for community-related recreational a
 
 * [Community halls consideration](https://design.planning.data.gov.uk/planning-consideration/community-halls)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/134)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

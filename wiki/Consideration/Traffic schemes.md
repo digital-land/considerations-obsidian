@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Traffic schemes
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Scheme to reduce motor vehicle traffic in residential streets
 
 ## Links
 
 * [Traffic schemes consideration](https://design.planning.data.gov.uk/planning-consideration/traffic-schemes)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

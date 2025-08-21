@@ -24,7 +24,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1HL7GkBJhYvTfUohy9djPQpP8NWgONRS-yrfpkl8ppNo/edit#heading=h.q1fqqglen3fg
 ---
 
-# Consideration/Article 4 Directions
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/PresumptionToPublish
 
 An Article 4 direction is made by the local planning authority to remove all or some of the permitted development rights on a site in order to protect it
 
@@ -41,7 +41,3 @@ An Article 4 direction is made by the local planning authority to remove all or 
 * [[article-4-direction-area]]
 * [[article-4-direction-rule]]
 * [[article-4-direction]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/PresumptionToPublish

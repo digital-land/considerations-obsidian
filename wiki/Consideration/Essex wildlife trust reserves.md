@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Essex wildlife trust reserves
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Nature reserves and discovery centres managed and protected by Essex Wildlife Trust
 
@@ -17,7 +17,3 @@ Nature reserves and discovery centres managed and protected by Essex Wildlife Tr
 
 * [Essex wildlife trust reserves consideration](https://design.planning.data.gov.uk/planning-consideration/essex-wildlife-trust-reserves)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/159)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

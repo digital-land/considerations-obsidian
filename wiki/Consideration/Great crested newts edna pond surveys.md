@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Great crested newts edna pond surveys
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Surveys of ponds to detect newt environmental DNA
 
@@ -17,7 +17,3 @@ Surveys of ponds to detect newt environmental DNA
 
 * [Great crested newts edna pond surveys consideration](https://design.planning.data.gov.uk/planning-consideration/great-crested-newts-edna-pond-surveys)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/170)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

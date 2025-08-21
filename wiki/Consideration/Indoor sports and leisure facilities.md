@@ -11,7 +11,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Indoor sports and leisure facilities
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Multi-sports building where a range of sport and recreational activities can take place
 
@@ -19,7 +19,3 @@ Multi-sports building where a range of sport and recreational activities can tak
 
 * [Indoor sports and leisure facilities consideration](https://design.planning.data.gov.uk/planning-consideration/indoor-sports-and-leisure-facilities)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/186)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -11,7 +11,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/Strategic road network
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 4,500 miles of motorways and major A roads
 
@@ -19,7 +19,3 @@ tags:
 
 * [Strategic road network consideration](https://design.planning.data.gov.uk/planning-consideration/strategic-road-network)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/263)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -29,7 +29,7 @@ useful-links:
   link_url: https://digital-land.github.io/local-plans-timetable/
 ---
 
-# Consideration/Development plans and timetables
+#Consideration #Stage/TestAndIterate #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 The status of emerging and current local plans and other development plans for local planning authorities
 
@@ -53,7 +53,3 @@ The status of emerging and current local plans and other development plans for l
 * [[development-plan-timetable]]
 * [[development-plan-type]]
 * [[development-plan]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown

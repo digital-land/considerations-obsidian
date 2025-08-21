@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Water quality
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The condition of water, including chemical, physical, and biological characteristics
 
@@ -17,7 +17,3 @@ The condition of water, including chemical, physical, and biological characteris
 
 * [Water quality consideration](https://design.planning.data.gov.uk/planning-consideration/water-quality)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/273)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

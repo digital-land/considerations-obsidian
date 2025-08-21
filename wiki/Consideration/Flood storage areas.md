@@ -17,7 +17,7 @@ useful-links:
   link_url: https://ckan.publishing.service.gov.uk/dataset/flood-map-for-planning-rivers-and-sea-flood-storage-areas
 ---
 
-# Consideration/Flood storage areas
+#Consideration #Stage/TestAndIterate #Prioritised/False #UpdateFrequency/Quarterly #OS/Unknown
 
 Areas that act as a balancing reservoir, storage basin or balancing pond for flood control
 
@@ -30,7 +30,3 @@ Areas that act as a balancing reservoir, storage basin or balancing pond for flo
 ## Datasets
 
 * [[flood-storage-area]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Quarterly #OS/Unknown

@@ -11,7 +11,7 @@ tags:
 - Tag/LocalLandCharge
 ---
 
-# Consideration/Public paths byways
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Tracks and paths open to the public
 
@@ -19,7 +19,3 @@ Tracks and paths open to the public
 
 * [Public paths byways consideration](https://design.planning.data.gov.uk/planning-consideration/public-paths-byways)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/239)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

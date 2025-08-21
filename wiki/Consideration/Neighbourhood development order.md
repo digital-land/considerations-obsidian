@@ -8,7 +8,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Neighbourhood development order
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Communities can grant planning permission through Neighbourhood Development Orders for specific development which complies with the order.
 
@@ -16,7 +16,3 @@ Communities can grant planning permission through Neighbourhood Development Orde
 
 * [Neighbourhood development order consideration](https://design.planning.data.gov.uk/planning-consideration/neighbourhood-development-order)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/299)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

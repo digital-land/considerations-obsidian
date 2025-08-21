@@ -10,7 +10,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/3g/ 4g/ 5g coverage
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Coverage of mobile phone networks
 
@@ -19,7 +19,3 @@ Coverage of mobile phone networks
 * [3g/ 4g/ 5g coverage consideration](https://design.planning.data.gov.uk/planning-consideration/3g-4g-5g-coverage)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/104)
 * [Legislation](https://bills.parliament.uk/bills/3569)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

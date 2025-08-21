@@ -9,7 +9,7 @@ tags:
 - Tag/LocalInformation
 ---
 
-# Consideration/Land maintenance notice
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A notice served when the condition of land is having an
 adverse effect on a neighbourhood
@@ -19,7 +19,3 @@ adverse effect on a neighbourhood
 * [Land maintenance notice consideration](https://design.planning.data.gov.uk/planning-consideration/land-maintenance-notice)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/192)
 * [Legislation](https://www.legislation.gov.uk/ukpga/1990/8/contents)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -20,7 +20,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1QERjoyZ-7oZkhNdxRmUXDVhCfxZj105SGmEaWUX9uYI/edit?usp=sharing
 ---
 
-# Consideration/Local plans
+#Consideration #Stage/TestAndIterate #Prioritised/True #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -37,7 +37,3 @@ useful-links:
 * [[local-plan-document]]
 * [[local-plan-boundary]]
 * [[local-plan-timetable]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Unknown #OS/Unknown

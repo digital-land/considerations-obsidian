@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Primary schools
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Primary education typically cover those aged between 4 and 11.
 
@@ -19,7 +19,3 @@ Primary education typically cover those aged between 4 and 11.
 
 * [Primary schools consideration](https://design.planning.data.gov.uk/planning-consideration/primary-schools)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/232)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

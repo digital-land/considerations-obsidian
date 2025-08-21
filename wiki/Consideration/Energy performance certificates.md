@@ -10,7 +10,7 @@ tags:
 - Tag/Energy
 ---
 
-# Consideration/Energy performance certificates
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Certificates that contain:
 
@@ -22,7 +22,3 @@ Certificates that contain:
 
 * [Energy performance certificates consideration](https://design.planning.data.gov.uk/planning-consideration/energy-performance-certificates)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/155)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

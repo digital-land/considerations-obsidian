@@ -12,7 +12,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/e/2PACX-1vRCXOwsr8gCoUNf3AHVebkQNRkwzVijL7JNeJa-QwdULLGXVMZUs9rk8mxZIV8oQ-o9Z2vG9OilBV-M/pub
 ---
 
-# Consideration/Local plan consultations and representations
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -22,7 +22,3 @@ useful-links:
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/57)
 * [Legislation](https://www.legislation.gov.uk/uksi/2012/767/contents/made)
 * [Original screening document](https://docs.google.com/document/d/e/2PACX-1vRCXOwsr8gCoUNf3AHVebkQNRkwzVijL7JNeJa-QwdULLGXVMZUs9rk8mxZIV8oQ-o9Z2vG9OilBV-M/pub)
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

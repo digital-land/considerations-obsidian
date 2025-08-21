@@ -8,7 +8,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Strategic housing market assessments (shmas)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -16,7 +16,3 @@ tags:
 
 * [Strategic housing market assessments (shmas) consideration](https://design.planning.data.gov.uk/planning-consideration/strategic-housing-market-assessments)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/261)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

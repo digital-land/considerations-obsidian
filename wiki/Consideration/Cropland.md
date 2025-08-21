@@ -9,7 +9,7 @@ tags:
 - Tag/LocalInformation
 ---
 
-# Consideration/Cropland
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas of land used for growing crops
 
@@ -17,7 +17,3 @@ Areas of land used for growing crops
 
 * [Cropland consideration](https://design.planning.data.gov.uk/planning-consideration/cropland)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/144)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

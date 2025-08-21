@@ -8,7 +8,7 @@ tags:
 - Tag/HousingSupplyAndDelivery
 ---
 
-# Consideration/Affordability index
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 To determine the minimum number of homes needed, strategic policies should be informed by a local housing need assessment, conducted using the standard method in national planning practice guidance. The standard method is a calculation informed by existing housing stock and affordability.
 
@@ -16,7 +16,3 @@ To determine the minimum number of homes needed, strategic policies should be in
 
 * [Affordability index consideration](https://design.planning.data.gov.uk/planning-consideration/affordability-index)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/284)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

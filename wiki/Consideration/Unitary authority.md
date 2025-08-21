@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Unitary authority
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Where county and district councils in ‘two-tier’ areas are replaced with a single tier of ‘unitary’ authorities responsible for all functions of county and district councils
 
@@ -17,7 +17,3 @@ Where county and district councils in ‘two-tier’ areas are replaced with a s
 
 * [Unitary authority consideration](https://design.planning.data.gov.uk/planning-consideration/unitary-authority)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/269)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

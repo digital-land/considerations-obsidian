@@ -20,7 +20,7 @@ useful-links:
   link_url: https://www.gov.uk/government/publications/brownfield-land-registers-data-standard
 ---
 
-# Consideration/Brownfield land
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Annually #OS/Unknown
 
 Previously developed land that's no longer being used
 
@@ -36,7 +36,3 @@ Previously developed land that's no longer being used
 
 * [[brownfield-land]]
 * [[brownfield-site]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown

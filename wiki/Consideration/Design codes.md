@@ -32,7 +32,7 @@ useful-links:
   link_url: https://docs.google.com/spreadsheets/d/1oLuL8rQ3yBz0fzycDZQczLxFZ-PpAKzNaG2swrRPF1E/edit?usp=sharing
 ---
 
-# Consideration/Design codes
+#Consideration #Stage/TestAndIterate #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 A Design Code is a set of design requirements providing specific parameters for the physical development of a site or area. They set expectations of design quality for any upcoming development.
 
@@ -56,7 +56,3 @@ A Design Code is a set of design requirements providing specific parameters for 
 * [[design-code-rule]]
 * [[design-code-status]]
 * [[design-code]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown

@@ -11,7 +11,7 @@ useful-links:
   link_url: https://ckan.publishing.service.gov.uk/dataset/flood-map-for-planning-rivers-and-sea-areas-benefiting-from-defences
 ---
 
-# Consideration/Areas benefitting from flood defences
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas that benefit from the presence of defences in a 1 percent fluvial / 0.5 percent tidal flood event.
 
@@ -20,7 +20,3 @@ Areas that benefit from the presence of defences in a 1 percent fluvial / 0.5 pe
 * [Areas benefitting from flood defences consideration](https://design.planning.data.gov.uk/planning-consideration/areas-which-would-benefit-from-flood-defences)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/113)
 * [National dataset documentation page](https://ckan.publishing.service.gov.uk/dataset/flood-map-for-planning-rivers-and-sea-areas-benefiting-from-defences)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

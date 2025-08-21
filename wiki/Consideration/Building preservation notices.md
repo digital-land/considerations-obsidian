@@ -14,7 +14,7 @@ tags:
 - Tag/Heritage
 ---
 
-# Consideration/Building preservation notices
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Fortnightly #OS/Unknown
 
 A notice to stop un-listed buildings of special architectural or historic interest from being demolished or altered in a way that affects the character of the building
 
@@ -27,7 +27,3 @@ A notice to stop un-listed buildings of special architectural or historic intere
 ## Datasets
 
 * [[building-preservation-notice]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

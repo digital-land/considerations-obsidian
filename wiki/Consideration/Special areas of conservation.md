@@ -22,7 +22,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/duty-to-protect-conserve-and-restore-european-sites
 ---
 
-# Consideration/Special areas of conservation
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 An area containing wildlife or marine life habitats and species that need conservation
 
@@ -36,7 +36,3 @@ An area containing wildlife or marine life habitats and species that need conser
 ## Datasets
 
 * [[special-area-of-conservation]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

@@ -16,7 +16,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1VbAfgd7dFrODkCpFEKFLAgAUfeodNTqEiDt1rL3cOO4/edit#heading=h.9rwg3m580tpf
 ---
 
-# Consideration/Sites of importance for nature conservation
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Defined areas identified and selected for their nature conservation value
 
@@ -25,7 +25,3 @@ Defined areas identified and selected for their nature conservation value
 * [Sites of importance for nature conservation consideration](https://design.planning.data.gov.uk/planning-consideration/sites-of-importance-for-nature-conservation)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/254)
 * [Fact sheet url](https://docs.google.com/document/d/1VbAfgd7dFrODkCpFEKFLAgAUfeodNTqEiDt1rL3cOO4/edit#heading=h.9rwg3m580tpf)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

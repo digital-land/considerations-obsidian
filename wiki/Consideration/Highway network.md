@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Highway network
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Highway network consideration](https://design.planning.data.gov.uk/planning-consideration/highway-network)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

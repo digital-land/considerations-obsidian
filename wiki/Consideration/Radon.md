@@ -16,7 +16,7 @@ useful-links:
   link_url: https://osdatahub.os.uk/downloads/open/Radon_Indicative_Atlas
 ---
 
-# Consideration/Radon
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A naturally occurring radioactive gas which may be found in high concentrations in indoor environments
 
@@ -27,7 +27,3 @@ A naturally occurring radioactive gas which may be found in high concentrations 
 * [National dataset documentation page](https://www.bgs.ac.uk/datasets/radon-data-indicative-atlas-of-radon/)
 * [URL of national dataset](https://www.bgs.ac.uk/download/radon-potential-indicative-atlas-data-for-great-britain/#)
 * [Radon Indicative Atlas OS open data](https://osdatahub.os.uk/downloads/open/Radon_Indicative_Atlas)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

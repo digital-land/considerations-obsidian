@@ -14,7 +14,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Suitable alternative natural greenspace (sang)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 SANG provides an alternative greenspace to attract residents of new developments away from the protected and vulnerable sites
 
@@ -27,7 +27,3 @@ SANG provides an alternative greenspace to attract residents of new developments
 ## Datasets
 
 * [[suitable-alternative-green-space]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

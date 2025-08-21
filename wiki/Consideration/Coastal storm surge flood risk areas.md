@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Coastal storm surge flood risk areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A storm surge is a change in sea level that is caused by a storm. They can lead to extensive flooding and are dangerous for people living in many coastal areas.
 
@@ -17,7 +17,3 @@ A storm surge is a change in sea level that is caused by a storm. They can lead 
 
 * [Coastal storm surge flood risk areas consideration](https://design.planning.data.gov.uk/planning-consideration/coastal-storm-surge-flood-risk-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/131)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

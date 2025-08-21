@@ -16,7 +16,7 @@ tags:
 - Tag/LicensingRestriction
 ---
 
-# Consideration/Historic landfill
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Sites where there is no PPC (Pollution Prevention and Control) permit or waste management licence currently in force
 
@@ -24,7 +24,3 @@ Sites where there is no PPC (Pollution Prevention and Control) permit or waste m
 
 * [Historic landfill consideration](https://design.planning.data.gov.uk/planning-consideration/historic-landfill)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/90)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown

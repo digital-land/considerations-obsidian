@@ -10,7 +10,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Long established & protected woodland
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas that have been wooded continuously from 1893
 
@@ -22,7 +22,3 @@ Areas that have been wooded continuously from 1893
 
 * [[long-established-woodland]]
 * [[long-protected-woodland]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -15,7 +15,7 @@ useful-links:
   link_url: https://www.nationalgridet.com/network-and-assets/network-route-maps
 ---
 
-# Consideration/National grid overhead lines
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Electrical cables that transmit electricity across the country
 
@@ -24,7 +24,3 @@ Electrical cables that transmit electricity across the country
 * [National grid overhead lines consideration](https://design.planning.data.gov.uk/planning-consideration/national-grid-overhead-lines)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/80)
 * [National dataset documentation page](https://www.nationalgridet.com/network-and-assets/network-route-maps)
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

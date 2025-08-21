@@ -18,7 +18,7 @@ useful-links:
   link_url: https://www.gov.uk/government/publications/national-public-transport-access-node-schema
 ---
 
-# Consideration/National Public Transport Access Nodes (NaPTAN)
+#Consideration #Stage/TestAndIterate #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 All public transport access points where you can get on or off public transport
 
@@ -31,7 +31,3 @@ All public transport access points where you can get on or off public transport
 ## Datasets
 
 * [[transport-access-node]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/AdHoc #OS/Unknown

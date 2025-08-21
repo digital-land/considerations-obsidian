@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Designated open space
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Land laid out as a public garden or used for the purposes of public recreation
 
@@ -18,7 +18,3 @@ Land laid out as a public garden or used for the purposes of public recreation
 
 * [Designated open space consideration](https://design.planning.data.gov.uk/planning-consideration/designated-open-space)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/147)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -15,7 +15,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/National parks and the broads
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A large area of land protected by law for the benefit of the nation
 
@@ -27,7 +27,3 @@ A large area of land protected by law for the benefit of the nation
 ## Datasets
 
 * [[national-park]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

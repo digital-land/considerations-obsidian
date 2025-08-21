@@ -30,7 +30,7 @@ useful-links:
   link_url: https://docs.google.com/spreadsheets/d/1vv9Tz92gKgK4llHGpxeO4w29qEGf8xBMxQfFhSbU4F0/edit?usp=sharing
 ---
 
-# Consideration/Planning conditions
+#Consideration #Stage/Co-Design #Prioritised/True #UpdateFrequency/Daily #OS/Unknown
 
 Conditions attached to the granting of planning permission to ensure that the development can take place where otherwise it would have been necessary to refuse planning permission
 
@@ -51,7 +51,3 @@ Conditions attached to the granting of planning permission to ensure that the de
 * [[planning-condition-target]]
 * [[planning-condition-type]]
 * [[planning-condition]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Daily #OS/Unknown

@@ -10,7 +10,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Uk airport data
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The presence of passenger and cargo airports in the UK.
 
@@ -18,7 +18,3 @@ The presence of passenger and cargo airports in the UK.
 
 * [Uk airport data consideration](https://design.planning.data.gov.uk/planning-consideration/uk-airport-data)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/268)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

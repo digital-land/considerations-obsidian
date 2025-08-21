@@ -10,7 +10,7 @@ tags:
 - Tag/SafeguardedLand
 ---
 
-# Consideration/Land required for public purpose
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Land reserved for a public purpose under a planning scheme
 
@@ -19,7 +19,3 @@ Land reserved for a public purpose under a planning scheme
 * [Land required for public purpose consideration](https://design.planning.data.gov.uk/planning-consideration/land-required-for-public-purpose)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/193)
 * [Legislation](https://www.legislation.gov.uk/ukpga/1990/8/contents)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

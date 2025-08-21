@@ -11,7 +11,7 @@ tags:
 - Tag/Infrastructure
 ---
 
-# Consideration/Nuclear power stations
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Power plants that use the process of nuclear fission to generate electricity
 
@@ -19,7 +19,3 @@ Power plants that use the process of nuclear fission to generate electricity
 
 * [Nuclear power stations consideration](https://design.planning.data.gov.uk/planning-consideration/nuclear-power-stations)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/222)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

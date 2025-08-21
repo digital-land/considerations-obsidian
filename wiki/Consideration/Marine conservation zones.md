@@ -10,7 +10,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Marine conservation zones
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Marine areas that protect a range of nationally important, rare or threatened habitats and species
 
@@ -18,7 +18,3 @@ Marine areas that protect a range of nationally important, rare or threatened ha
 
 * [Marine conservation zones consideration](https://design.planning.data.gov.uk/planning-consideration/marine-conservation-zones)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/209)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

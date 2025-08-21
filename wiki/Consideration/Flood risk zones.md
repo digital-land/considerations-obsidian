@@ -21,7 +21,7 @@ useful-links:
   link_url: https://ckan.publishing.service.gov.uk/dataset/flood-map-for-planning-rivers-and-sea-flood-zone-2
 ---
 
-# Consideration/Flood risk zones
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Quarterly #OS/Unknown
 
 Areas at risk from flooding from rivers or the sea
 
@@ -37,7 +37,3 @@ Areas at risk from flooding from rivers or the sea
 * [[flood-risk-level]]
 * [[flood-risk-type]]
 * [[flood-risk-zone]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Quarterly #OS/Unknown

@@ -17,7 +17,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Ramsar
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 An area of wetlands that is of international importance
 
@@ -29,7 +29,3 @@ An area of wetlands that is of international importance
 ## Datasets
 
 * [[ramsar]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

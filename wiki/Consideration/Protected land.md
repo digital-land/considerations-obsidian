@@ -12,7 +12,7 @@ tags:
 - Tag/LocalLandCharge
 ---
 
-# Consideration/Protected land
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Sites with special status as protected areas because of their natural and cultural importance
 
@@ -24,7 +24,3 @@ Sites with special status as protected areas because of their natural and cultur
 ## Datasets
 
 * [[protected-land]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

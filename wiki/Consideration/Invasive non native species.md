@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Invasive non native species
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Species which have been introduced into areas outside their natural range through human actions and are posing a threat to native wildlife
 
@@ -17,7 +17,3 @@ Species which have been introduced into areas outside their natural range throug
 
 * [Invasive non native species consideration](https://design.planning.data.gov.uk/planning-consideration/invasive-non-native-species)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/189)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

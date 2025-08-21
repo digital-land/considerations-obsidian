@@ -10,7 +10,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Strategic areas for regeneration
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 These areas are the Census Local Super Output Areas (LSOAs) in greatest socio-economic need. They fall within the 20 per cent most deprived LSOAs in England, using the Index of Multiple Deprivation. As set out within the London Plan (2021).
 
@@ -18,7 +18,3 @@ These areas are the Census Local Super Output Areas (LSOAs) in greatest socio-ec
 
 * [Strategic areas for regeneration consideration](https://design.planning.data.gov.uk/planning-consideration/strategic-areas-for-regeneration)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/259)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

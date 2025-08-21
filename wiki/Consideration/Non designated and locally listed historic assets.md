@@ -9,7 +9,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Non designated and locally listed historic assets
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -20,7 +20,3 @@ tags:
 ## Datasets
 
 * [[non-designated-and-locally-listed-historic-asset]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

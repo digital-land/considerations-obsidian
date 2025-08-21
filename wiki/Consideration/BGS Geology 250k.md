@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/BGS Geology 250k
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [BGS Geology 250k consideration](https://design.planning.data.gov.uk/planning-consideration/bgs-geology-250k)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

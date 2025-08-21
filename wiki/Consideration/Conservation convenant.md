@@ -10,7 +10,7 @@ tags:
 - Tag/LocalLandCharge
 ---
 
-# Consideration/Conservation convenant
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A conservation covenant agreement is a private, voluntary agreement to conserve the natural or heritage features of the land. This can include buildings on the land.
 
@@ -18,7 +18,3 @@ A conservation covenant agreement is a private, voluntary agreement to conserve 
 
 * [Conservation convenant consideration](https://design.planning.data.gov.uk/planning-consideration/conservation-convenant)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/137)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

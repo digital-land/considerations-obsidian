@@ -8,7 +8,7 @@ tags:
 - Tag/Constraint
 ---
 
-# Consideration/Aircraft noise
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -16,7 +16,3 @@ tags:
 
 * [Aircraft noise consideration](https://design.planning.data.gov.uk/planning-consideration/aircraft-noise)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/106)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

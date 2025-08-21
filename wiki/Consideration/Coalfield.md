@@ -9,7 +9,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Coalfield
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A coal mining area that could contain unrecorded hazards
 
@@ -17,7 +17,3 @@ A coal mining area that could contain unrecorded hazards
 
 * [Coalfield consideration](https://design.planning.data.gov.uk/planning-consideration/coalfield)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/128)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

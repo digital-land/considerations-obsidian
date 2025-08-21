@@ -12,7 +12,7 @@ useful-links:
   link_url: https://www.savills.co.uk/blog/article/351131/residential-property/in-plain-english--what-is-a-local-development-order-.aspx
 ---
 
-# Consideration/Local development order
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Local development orders (LDOs) provide permitted development rights for specified types of development in defined locations.
 
@@ -22,7 +22,3 @@ Local development orders (LDOs) provide permitted development rights for specifi
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/62)
 * [Legislation](https://www.legislation.gov.uk/ukpga/2004/5/contents)
 * [What is a local development order](https://www.savills.co.uk/blog/article/351131/residential-property/in-plain-english--what-is-a-local-development-order-.aspx)
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

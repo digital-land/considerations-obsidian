@@ -12,7 +12,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Internal drainage district
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas that derive benefit or avoid danger as a result of drainage operations
 
@@ -25,7 +25,3 @@ Areas that derive benefit or avoid danger as a result of drainage operations
 
 * [[internal-drainage-board]]
 * [[internal-drainage-district]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

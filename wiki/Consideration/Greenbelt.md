@@ -21,7 +21,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/green-belt
 ---
 
-# Consideration/Greenbelt
+#Consideration #Stage/OnThePlatform #Prioritised/True #UpdateFrequency/AdHoc #OS/Unknown
 
 An area of open land around a city that cannot be built on
 
@@ -35,7 +35,3 @@ An area of open land around a city that cannot be built on
 
 * [[green-belt-core]]
 * [[green-belt]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

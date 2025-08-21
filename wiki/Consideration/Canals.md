@@ -11,7 +11,7 @@ tags:
 - Tag/Infrastructure
 ---
 
-# Consideration/Canals
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Human-made waterways that allow boats and ships to pass from one body of water to another
 
@@ -19,7 +19,3 @@ Human-made waterways that allow boats and ships to pass from one body of water t
 
 * [Canals consideration](https://design.planning.data.gov.uk/planning-consideration/canals)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/125)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

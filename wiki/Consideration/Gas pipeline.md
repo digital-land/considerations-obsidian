@@ -12,7 +12,7 @@ tags:
 - Tag/LocalLandCharge
 ---
 
-# Consideration/Gas pipeline
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Gas pipelines are wide-diameter, long-distance pipelines that transport natural gas from the producing and processing areas to storage facilities and distribution centres
 
@@ -21,7 +21,3 @@ Gas pipelines are wide-diameter, long-distance pipelines that transport natural 
 * [Gas pipeline consideration](https://design.planning.data.gov.uk/planning-consideration/gas-pipeline)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/166)
 * [Legislation](https://www.legislation.gov.uk/uksi/1996/825/contents/made)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

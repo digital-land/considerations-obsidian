@@ -13,7 +13,7 @@ tags:
 - Tag/Infrastructure
 ---
 
-# Consideration/National underground asset register
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The Geospatial Commission, part of the Department for Science, Innovation and Technology, is building a digital map of underground pipes and cables that will revolutionise the way we install, maintain, operate and repair our buried infrastructure - the National Underground Asset Register (NUAR).
 
@@ -21,7 +21,3 @@ The Geospatial Commission, part of the Department for Science, Innovation and Te
 
 * [National underground asset register consideration](https://design.planning.data.gov.uk/planning-consideration/national-underground-asset-register)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/279)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Key business areas
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Key business areas consideration](https://design.planning.data.gov.uk/planning-consideration/key-business-areas)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

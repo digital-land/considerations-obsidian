@@ -14,7 +14,7 @@ useful-links:
   link_url: https://ckan.publishing.service.gov.uk/dataset/casi-and-lidar-habitat-map
 ---
 
-# Consideration/Casi and lidar habitat
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Annually #OS/Unknown
 
 A habitat map derived from airborne data, specifically CASI and LIDAR data. The habitat map is a polygon shapefile showing site relevant habitat classes, for sites where data is available.
 
@@ -23,7 +23,3 @@ A habitat map derived from airborne data, specifically CASI and LIDAR data. The 
 * [Casi and lidar habitat consideration](https://design.planning.data.gov.uk/planning-consideration/casi-and-lidar-habitat)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/76)
 * [National dataset documentation page](https://ckan.publishing.service.gov.uk/dataset/casi-and-lidar-habitat-map)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown

@@ -20,7 +20,7 @@ useful-links:
   link_url: https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/218584/village-green-1993.pdf
 ---
 
-# Consideration/Common land and village greens
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas of open space that have been used for recreation by the inhabitants of the town, village or parish for generations
 
@@ -35,7 +35,3 @@ Areas of open space that have been used for recreation by the inhabitants of the
 ## Datasets
 
 * [[common-land-and-village-green]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

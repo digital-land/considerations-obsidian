@@ -12,7 +12,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/Fibre to the premises (fttp)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Also known as ultrafast full fibre broadband, this involves laying fibre optic cables directly from the broadband exchange into homes, offering speeds of up to 1,000Mb (megabits per second) – around 30 times faster than standard fibre
 
@@ -21,7 +21,3 @@ Also known as ultrafast full fibre broadband, this involves laying fibre optic c
 * [Fibre to the premises (fttp) consideration](https://design.planning.data.gov.uk/planning-consideration/fibre-to-the-premises)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/162)
 * [Legislation](https://www.gov.uk/government/publications/levelling-up-the-united-kingdom)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

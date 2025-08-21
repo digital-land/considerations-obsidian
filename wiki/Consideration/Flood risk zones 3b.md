@@ -19,7 +19,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1a458xs4QgOG-WDKXyNzz3vPVLcAFh9jobIUn4wcgBTc/edit?usp=sharing
 ---
 
-# Consideration/Flood risk zones 3b
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Flood risk zone 3b, or the 'functional floodplain' is land where water has to flow or be stored in times of flooding, often to protect downstream communities from flooding.
 
@@ -30,7 +30,3 @@ Flood risk zone 3b, or the 'functional floodplain' is land where water has to fl
 * [Flood risk assessment zones 2 + 3 guidance](https://www.gov.uk/guidance/flood-risk-assessment-in-flood-zones-2-and-3)
 * [Flood risk guidance](https://www.gov.uk/guidance/flood-risk-and-coastal-change)
 * [Design process document](https://docs.google.com/document/d/1a458xs4QgOG-WDKXyNzz3vPVLcAFh9jobIUn4wcgBTc/edit?usp=sharing)
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

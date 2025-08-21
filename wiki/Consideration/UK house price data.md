@@ -10,7 +10,7 @@ useful-links:
   link_url: https://www.gov.uk/government/collections/uk-house-price-index-reports#about-the-uk-hpi
 ---
 
-# Consideration/UK house price data
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Changes in the value of residential properties
 
@@ -18,7 +18,3 @@ Changes in the value of residential properties
 
 * [UK house price data consideration](https://design.planning.data.gov.uk/planning-consideration/uk-house-price-data)
 * [National dataset documentation page](https://www.gov.uk/government/collections/uk-house-price-index-reports#about-the-uk-hpi)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

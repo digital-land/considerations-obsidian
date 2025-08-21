@@ -10,7 +10,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/Gigabit availability coverage
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The coverage of where wifi download speeds of 1,000mbps (megabits per second) are available.
 
@@ -18,7 +18,3 @@ The coverage of where wifi download speeds of 1,000mbps (megabits per second) ar
 
 * [Gigabit availability coverage consideration](https://design.planning.data.gov.uk/planning-consideration/gigabit-availability-coverage)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/281)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

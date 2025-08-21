@@ -10,7 +10,7 @@ tags:
 - Tag/Landscape
 ---
 
-# Consideration/National trust land
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Land that is enclosed as part of a National Trust estate and public access is limited
 
@@ -18,7 +18,3 @@ Land that is enclosed as part of a National Trust estate and public access is li
 
 * [National trust land consideration](https://design.planning.data.gov.uk/planning-consideration/national-trust-land)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/216)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

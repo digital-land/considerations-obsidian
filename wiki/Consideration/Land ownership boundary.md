@@ -8,14 +8,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Land ownership boundary
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The rough boundary of a property
 
 ## Links
 
 * [Land ownership boundary consideration](https://design.planning.data.gov.uk/planning-consideration/land-ownership-boundary)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -10,7 +10,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Strategic industrial location (sil)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 London’s largest concentrations of industrial, logistics and related capacity for uses that support the functioning of London’s economy
 
@@ -18,7 +18,3 @@ London’s largest concentrations of industrial, logistics and related capacity 
 
 * [Strategic industrial location (sil) consideration](https://design.planning.data.gov.uk/planning-consideration/strategic-industrial-location)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/288)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

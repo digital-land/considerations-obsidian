@@ -8,7 +8,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Coalfield consultation area
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where the Coal Authority recommends a mining search report is required for property conveyancing or development
 
@@ -16,7 +16,3 @@ Areas where the Coal Authority recommends a mining search report is required for
 
 * [Coalfield consultation area consideration](https://design.planning.data.gov.uk/planning-consideration/coalfield-consultation-area)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/129)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

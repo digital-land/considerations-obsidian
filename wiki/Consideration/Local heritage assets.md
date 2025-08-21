@@ -13,7 +13,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Local heritage assets
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Assets designated by local authorities which are of local significance and require protection
 
@@ -21,7 +21,3 @@ Assets designated by local authorities which are of local significance and requi
 
 * [Local heritage assets consideration](https://design.planning.data.gov.uk/planning-consideration/local-heritage-assets)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/204)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

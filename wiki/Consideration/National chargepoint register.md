@@ -10,7 +10,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/National chargepoint register
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Database of public electric vehicle chargepoints  in the UK
 
@@ -18,7 +18,3 @@ Database of public electric vehicle chargepoints  in the UK
 
 * [National chargepoint register consideration](https://design.planning.data.gov.uk/planning-consideration/national-chargepoint-register)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/214)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

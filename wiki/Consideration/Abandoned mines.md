@@ -10,7 +10,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Abandoned mines
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where mining has previously taken place but is no longer in use
 
@@ -19,7 +19,3 @@ Areas where mining has previously taken place but is no longer in use
 * [Abandoned mines consideration](https://design.planning.data.gov.uk/planning-consideration/abandoned-mines)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/105)
 * [Legislation](https://www.legislation.gov.uk/uksi/1998/892/contents/made)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

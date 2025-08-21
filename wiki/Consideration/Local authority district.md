@@ -13,7 +13,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Local authority district
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The geographic area that a local government body is responsible for
 
@@ -25,7 +25,3 @@ The geographic area that a local government body is responsible for
 ## Datasets
 
 * [[local-authority-district]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

@@ -18,7 +18,7 @@ useful-links:
   link_url: https://historicengland.org.uk/listing/protect-historic-places/building-preservation-notices-and-certificates-of-immunity/#COIs
 ---
 
-# Consideration/Certificate of immunity
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Fortnightly #OS/Unknown
 
 A guarantee that a building or buildings will not be newly listed or given a building preservation notice for the next 5 years
 
@@ -32,7 +32,3 @@ A guarantee that a building or buildings will not be newly listed or given a bui
 ## Datasets
 
 * [[certificate-of-immunity]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

@@ -11,7 +11,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/Railway tracks
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The structures that trains run on
 
@@ -19,7 +19,3 @@ The structures that trains run on
 
 * [Railway tracks consideration](https://design.planning.data.gov.uk/planning-consideration/railway-tracks)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/242)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

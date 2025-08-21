@@ -33,7 +33,7 @@ useful-links:
   link_url: https://app.mural.co/t/mhclg2837/m/mhclg2837/1712065005247/3ff6509868c8d96c9665debd82d8f6c1ef627897?sender=u1cae178c0a712eade24c2472
 ---
 
-# Consideration/Listed building outlines
+#Consideration #Stage/OnThePlatform #Prioritised/True #UpdateFrequency/Fortnightly #OS/PresumptionToPublish
 
 The boundary of the area relating to a listed building which is protected because it has special architectural or historic interest
 
@@ -53,7 +53,3 @@ The boundary of the area relating to a listed building which is protected becaus
 * [[listed-building-grade]]
 * [[listed-building-outline]]
 * [[listed-building]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/PresumptionToPublish

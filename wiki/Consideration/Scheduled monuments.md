@@ -18,7 +18,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Scheduled monuments
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Fortnightly #OS/Unknown
 
 A site that's legally protected because of its historical importance
 
@@ -30,7 +30,3 @@ A site that's legally protected because of its historical importance
 ## Datasets
 
 * [[scheduled-monument]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

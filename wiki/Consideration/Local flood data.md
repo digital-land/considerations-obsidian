@@ -13,7 +13,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1GJdkEbpLlfcB9AbBfLcDgkvFMxs7kPrtc_y_mxOby-I/edit
 ---
 
-# Consideration/Local flood data
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -22,7 +22,3 @@ useful-links:
 * [Local flood data consideration](https://design.planning.data.gov.uk/planning-consideration/local-flood-data)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/58)
 * [Fact sheet url](https://docs.google.com/document/d/1GJdkEbpLlfcB9AbBfLcDgkvFMxs7kPrtc_y_mxOby-I/edit)
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

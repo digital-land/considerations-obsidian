@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Environmental outcome reports
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A system of assessing environmental impacts from development, plans, projects and policies
 
@@ -17,7 +17,3 @@ A system of assessing environmental impacts from development, plans, projects an
 
 * [Environmental outcome reports consideration](https://design.planning.data.gov.uk/planning-consideration/environmental-outcome-reports)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/158)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

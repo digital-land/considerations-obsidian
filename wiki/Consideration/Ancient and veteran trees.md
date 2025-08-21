@@ -19,7 +19,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/ancient-woodland-ancient-trees-and-veteran-trees-advice-for-making-planning-decisions
 ---
 
-# Consideration/Ancient and veteran trees
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A tree that is of interest biologically, culturally or aesthetically because of its age, size or condition
 
@@ -29,7 +29,3 @@ A tree that is of interest biologically, culturally or aesthetically because of 
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/108)
 * [Legislation](https://www.gov.uk/guidance/ancient-woodland-ancient-trees-and-veteran-trees-advice-for-making-planning-decisions#ancient-and-veteran-trees)
 * [Ancient and veteran tree guidance](https://www.gov.uk/guidance/ancient-woodland-ancient-trees-and-veteran-trees-advice-for-making-planning-decisions)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

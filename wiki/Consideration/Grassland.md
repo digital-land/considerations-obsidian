@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Grassland
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Landscapes dominated by grasses
 
@@ -17,7 +17,3 @@ Landscapes dominated by grasses
 
 * [Grassland consideration](https://design.planning.data.gov.uk/planning-consideration/grassland)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/168)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

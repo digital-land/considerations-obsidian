@@ -13,7 +13,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Community infrastructure levy (cil)
+#Consideration #Stage/Co-Design #Prioritised/True #UpdateFrequency/Unknown #OS/Unknown
 
 The Community Infrastructure Levy (CIL) is a charge which can be levied by local authorities on new development. It only applies in areas where a local authority has consulted on and approved a charging schedule which sets out those charges
 
@@ -22,7 +22,3 @@ The Community Infrastructure Levy (CIL) is a charge which can be levied by local
 * [Community infrastructure levy (cil) consideration](https://design.planning.data.gov.uk/planning-consideration/community-infrastructure-levy)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/99)
 * [Legislation](https://www.legislation.gov.uk/uksi/2010/948/contents/made)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

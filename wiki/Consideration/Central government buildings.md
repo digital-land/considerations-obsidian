@@ -10,7 +10,7 @@ useful-links:
   link_url: https://www.data.gov.uk/dataset/c186e17f-654d-4134-aed7-b3f13469546a/central-government-welsh-ministers-and-local-government-including-property-and-land
 ---
 
-# Consideration/Central government buildings
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Buildings that the UK central government owns or occupies
 
@@ -18,7 +18,3 @@ Buildings that the UK central government owns or occupies
 
 * [Central government buildings consideration](https://design.planning.data.gov.uk/planning-consideration/central-government-buildings)
 * [URL of national dataset](https://www.data.gov.uk/dataset/c186e17f-654d-4134-aed7-b3f13469546a/central-government-welsh-ministers-and-local-government-including-property-and-land)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

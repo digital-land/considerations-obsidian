@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Other sports facilities
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Courts and greens comprising natural or artificial surfaces, including tennis courts, bowling greens, athletics tracks and other outdoor sports areas
 
@@ -19,7 +19,3 @@ Courts and greens comprising natural or artificial surfaces, including tennis co
 
 * [Other sports facilities consideration](https://design.planning.data.gov.uk/planning-consideration/other-sports-facilities)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

@@ -8,7 +8,7 @@ tags:
 - Tag/PlanningPermission
 ---
 
-# Consideration/Planning application consultations
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The period of consultation where views on the proposed development can be communicated
 
@@ -16,7 +16,3 @@ The period of consultation where views on the proposed development can be commun
 
 * [Planning application consultations consideration](https://design.planning.data.gov.uk/planning-consideration/planning-application-consultations)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/225)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

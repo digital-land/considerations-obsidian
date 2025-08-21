@@ -8,14 +8,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Section 73
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Applications for planning permission to develop land without complying with previously imposed planning conditions
 
 ## Links
 
 * [Section 73 consideration](https://design.planning.data.gov.uk/planning-consideration/section-73)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

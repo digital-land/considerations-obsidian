@@ -15,7 +15,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/using-coal-mining-information
 ---
 
-# Consideration/Mining and ground stability
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Potential ground stability hazards from mining activities
 
@@ -29,7 +29,3 @@ Potential ground stability hazards from mining activities
 ## Datasets
 
 * [[https://www.gov.uk/guidance/using-coal-mining-information]]
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

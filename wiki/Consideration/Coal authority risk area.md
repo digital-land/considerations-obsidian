@@ -10,7 +10,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Coal authority risk area
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas which contain recorded features which could cause risk from the legacy of coal mining operations
 
@@ -18,7 +18,3 @@ Areas which contain recorded features which could cause risk from the legacy of 
 
 * [Coal authority risk area consideration](https://design.planning.data.gov.uk/planning-consideration/coal-authority-risk-area)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/127)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

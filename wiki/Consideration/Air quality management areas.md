@@ -23,7 +23,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1TU0-gSBKGoc6XJMtm_ccB1W3z2zb_1SvVakfn2yiE4w/edit#heading=h.9rwg3m580tpf
 ---
 
-# Consideration/Air quality management areas
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Areas where air pollution levels have exceeded the national air quality objectives
 
@@ -38,7 +38,3 @@ Areas where air pollution levels have exceeded the national air quality objectiv
 ## Datasets
 
 * [[air-quality-management-area]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

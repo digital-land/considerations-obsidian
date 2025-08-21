@@ -12,7 +12,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Priority habitats
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The UK Biodiversity Action Plan (UK BAP) refers to a number of priority habitats, including terrestrial, freshwater and marine habitats. Each priority habitat has a corresponding Habitat Action Plan (HAP)
 
@@ -20,7 +20,3 @@ The UK Biodiversity Action Plan (UK BAP) refers to a number of priority habitats
 
 * [Priority habitats consideration](https://design.planning.data.gov.uk/planning-consideration/priority-habitats)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/297)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

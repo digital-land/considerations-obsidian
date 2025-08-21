@@ -9,7 +9,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Green wedges
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Green wedges - These areas of open land are designed to manage urban growth, maintain separation between settlements, and support environmental quality through the preservation of green infrastructure.
 
@@ -17,7 +17,3 @@ Green wedges - These areas of open land are designed to manage urban growth, mai
 
 * [Green wedges consideration](https://design.planning.data.gov.uk/planning-consideration/green-wedges)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/318)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

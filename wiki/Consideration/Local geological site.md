@@ -11,7 +11,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Local geological site
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Non-statutory geological sites which are given protection through the planning process, designated by local authorities.
 
@@ -19,7 +19,3 @@ Non-statutory geological sites which are given protection through the planning p
 
 * [Local geological site consideration](https://design.planning.data.gov.uk/planning-consideration/local-geological-site)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/202)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Major roads
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Motorways and all class 'A' roads
 
 ## Links
 
 * [Major roads consideration](https://design.planning.data.gov.uk/planning-consideration/major-roads)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

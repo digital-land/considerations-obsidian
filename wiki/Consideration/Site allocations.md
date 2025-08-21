@@ -13,7 +13,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Site allocations
+#Consideration #Stage/Co-Design #Prioritised/True #UpdateFrequency/AdHoc #OS/Unknown
 
 Areas identified as sites for housing, employment, retail or green space to be developed in the future
 
@@ -21,7 +21,3 @@ Areas identified as sites for housing, employment, retail or green space to be d
 
 * [Site allocations consideration](https://design.planning.data.gov.uk/planning-consideration/site-allocations)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/42)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown

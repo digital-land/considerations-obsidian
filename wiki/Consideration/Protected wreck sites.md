@@ -14,7 +14,7 @@ tags:
 - Tag/Heritage
 ---
 
-# Consideration/Protected wreck sites
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Fortnightly #OS/Unknown
 
 The restricted area around the wreck of a nationally important vessel to prevent any interference
 
@@ -26,7 +26,3 @@ The restricted area around the wreck of a nationally important vessel to prevent
 ## Datasets
 
 * [[protected-wreck-site]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

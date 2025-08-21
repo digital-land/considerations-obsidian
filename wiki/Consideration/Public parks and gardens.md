@@ -12,7 +12,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Public parks and gardens
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Accessible, high quality opportunities for informal recreation and community events, including urban parks, country parks, regional parks, forest parks, and formal gardens
 
@@ -20,7 +20,3 @@ Accessible, high quality opportunities for informal recreation and community eve
 
 * [Public parks and gardens consideration](https://design.planning.data.gov.uk/planning-consideration/public-parks-and-gardens)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

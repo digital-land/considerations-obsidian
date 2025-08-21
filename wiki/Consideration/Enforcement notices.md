@@ -9,7 +9,7 @@ tags:
 - Tag/PlanningPermission
 ---
 
-# Consideration/Enforcement notices
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -17,7 +17,3 @@ tags:
 
 * [Enforcement notices consideration](https://design.planning.data.gov.uk/planning-consideration/enforcement-notices)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/156)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

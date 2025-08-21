@@ -17,7 +17,7 @@ useful-links:
   link_url: https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/network-route-maps
 ---
 
-# Consideration/National grid cables
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Locations of national electricity transmission network cables
 
@@ -27,7 +27,3 @@ Locations of national electricity transmission network cables
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/79)
 * [National dataset documentation page](https://www.nationalgridet.com/network-and-assets/network-route-maps)
 * [National Grid - Network Route Maps website](https://www.nationalgrid.com/electricity-transmission/network-and-infrastructure/network-route-maps)
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

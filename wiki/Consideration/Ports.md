@@ -10,7 +10,7 @@ tags:
 - Tag/Infrastructure
 ---
 
-# Consideration/Ports
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A maritime facility comprising one or more wharves or loading areas, where ships load and discharge cargo and passengers.
 
@@ -18,7 +18,3 @@ A maritime facility comprising one or more wharves or loading areas, where ships
 
 * [Ports consideration](https://design.planning.data.gov.uk/planning-consideration/ports)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/229)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

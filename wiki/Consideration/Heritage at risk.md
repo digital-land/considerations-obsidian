@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Heritage at risk
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Historic sites that are most at risk of being lost as a result of neglect, decay or inappropriate development
 
@@ -18,7 +18,3 @@ Historic sites that are most at risk of being lost as a result of neglect, decay
 
 * [Heritage at risk consideration](https://design.planning.data.gov.uk/planning-consideration/heritage-at-risk)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/179)
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

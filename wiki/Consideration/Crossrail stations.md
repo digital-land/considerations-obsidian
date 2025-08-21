@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Crossrail stations
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Stations on the train route linking Reading and Heathrow in the west with Shenfield and Abbey Wood in the east, via tunnels under central London
 
 ## Links
 
 * [Crossrail stations consideration](https://design.planning.data.gov.uk/planning-consideration/crossrail-stations)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

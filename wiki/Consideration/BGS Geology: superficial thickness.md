@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/BGS Geology: superficial thickness
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [BGS Geology: superficial thickness consideration](https://design.planning.data.gov.uk/planning-consideration/bgs-geology-superficial-thickness)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

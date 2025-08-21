@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Local wildlife sites
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas of land that are especially important for their local wildlife
 
@@ -19,7 +19,3 @@ Areas of land that are especially important for their local wildlife
 
 * [Local wildlife sites consideration](https://design.planning.data.gov.uk/planning-consideration/local-wildlife-sites)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/208)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

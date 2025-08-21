@@ -16,7 +16,7 @@ useful-links:
   link_url: https://github.com/digital-land/planning-application-data-specification
 ---
 
-# Consideration/Planning application submissions
+#Consideration #Stage/Co-Design #Prioritised/True #UpdateFrequency/Unknown #OS/Unknown
 
 Working towards a set of data specifications that define what needs to be included when submitting a planning application
 
@@ -27,7 +27,3 @@ Working towards a set of data specifications that define what needs to be includ
 * [Advisory group updates](https://design.planning.data.gov.uk/advisory-group)
 * [Module tracker (where is each specification)](https://docs.google.com/spreadsheets/d/1MfoIIZBU3cSIhk8awT3f8fv7j_AETT7PLslTJaoa_0Y/edit?usp=sharing)
 * [Planning application data specification (GitHub)](https://github.com/digital-land/planning-application-data-specification)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

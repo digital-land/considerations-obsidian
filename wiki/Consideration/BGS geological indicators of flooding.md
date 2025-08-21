@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/BGS geological indicators of flooding
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [BGS geological indicators of flooding consideration](https://design.planning.data.gov.uk/planning-consideration/bgs-geological-indicators-of-flooding)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

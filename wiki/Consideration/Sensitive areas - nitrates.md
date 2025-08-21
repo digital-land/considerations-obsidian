@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Sensitive areas - nitrates
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas designated as being at risk from agricultural nitrate pollution
 
@@ -18,7 +18,3 @@ Areas designated as being at risk from agricultural nitrate pollution
 
 * [Sensitive areas - nitrates consideration](https://design.planning.data.gov.uk/planning-consideration/sensitive-areas-nitrates)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/252)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

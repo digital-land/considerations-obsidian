@@ -11,7 +11,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Groundwater source protection zones
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Zones that provide additional protection to safeguard drinking water quality
 
@@ -19,7 +19,3 @@ Zones that provide additional protection to safeguard drinking water quality
 
 * [Groundwater source protection zones consideration](https://design.planning.data.gov.uk/planning-consideration/groundwater-source-protection-zones)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/172)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

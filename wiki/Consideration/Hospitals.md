@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Hospitals
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Building where medical and surgical treatment and nursing care for sick or injured people is provided
 
 ## Links
 
 * [Hospitals consideration](https://design.planning.data.gov.uk/planning-consideration/hospitals)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

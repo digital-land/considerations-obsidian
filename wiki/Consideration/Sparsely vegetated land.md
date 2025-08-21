@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Sparsely vegetated land
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Environments where plants are slow to establish and easily disturbed
 
@@ -17,7 +17,3 @@ Environments where plants are slow to establish and easily disturbed
 
 * [Sparsely vegetated land consideration](https://design.planning.data.gov.uk/planning-consideration/sparsely-vegetated-land)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/256)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

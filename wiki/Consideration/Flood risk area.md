@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Flood risk area
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where there is a risk of flooding from rivers or the sea
 
@@ -18,7 +18,3 @@ Areas where there is a risk of flooding from rivers or the sea
 
 * [Flood risk area consideration](https://design.planning.data.gov.uk/planning-consideration/flood-risk-area)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/164)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -10,7 +10,7 @@ tags:
 - Tag/Heritage
 ---
 
-# Consideration/Archaeological remains
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Sites where archaeological remains are discovered, and require conservation
 
@@ -19,7 +19,3 @@ Sites where archaeological remains are discovered, and require conservation
 * [Archaeological remains consideration](https://design.planning.data.gov.uk/planning-consideration/archaeological-remains)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/88)
 * [Legislation](https://www.legislation.gov.uk/ukpga/1979/46)
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

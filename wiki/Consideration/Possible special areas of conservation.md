@@ -13,7 +13,7 @@ tags:
 - Tag/Footnote7
 ---
 
-# Consideration/Possible special areas of conservation
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Sites on which Government has initiated public consultation on the scientific case for designation as a Special Area of Conservation
 
@@ -22,7 +22,3 @@ Sites on which Government has initiated public consultation on the scientific ca
 * [Possible special areas of conservation consideration](https://design.planning.data.gov.uk/planning-consideration/possible-special-areas-of-conservation)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/321)
 * [Legislation](https://assets.publishing.service.gov.uk/media/67aafe8f3b41f783cca46251/NPPF_December_2024.pdf)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

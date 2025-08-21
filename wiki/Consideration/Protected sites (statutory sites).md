@@ -9,14 +9,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Protected sites (statutory sites)
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Sites that have protection through legislation in recognition of biodiversity and geological value
 
 ## Links
 
 * [Protected sites (statutory sites) consideration](https://design.planning.data.gov.uk/planning-consideration/protected-sites)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

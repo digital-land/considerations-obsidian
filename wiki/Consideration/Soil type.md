@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Soil type
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Soil landscapes of England and Wales
 
 ## Links
 
 * [Soil type consideration](https://design.planning.data.gov.uk/planning-consideration/soil-type)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

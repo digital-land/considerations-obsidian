@@ -20,7 +20,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/protected-areas-sites-of-special-scientific-interest
 ---
 
-# Consideration/Sites of special scientific interest
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 A protected area that’s of particular interest to science due to rare species of fauna or flora or important geological or physiological features
 
@@ -33,7 +33,3 @@ A protected area that’s of particular interest to science due to rare species 
 ## Datasets
 
 * [[site-of-special-scientific-interest]]
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/AdHoc #OS/Unknown

@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Urban development area
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Comprising residential, growth zones, commercial, industrial, public-use, and mixed-use zones
 
 ## Links
 
 * [Urban development area consideration](https://design.planning.data.gov.uk/planning-consideration/urban-development-area)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

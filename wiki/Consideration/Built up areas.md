@@ -15,7 +15,7 @@ useful-links:
   link_url: https://data.gov.uk/dataset/15e3be7f-66ed-416c-b0f2-241e87668642/built-up-areas-december-2011-boundaries-v2
 ---
 
-# Consideration/Built up areas
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every2Years #OS/Unknown
 
 Land which is characteristic of a village, town or city
 
@@ -28,7 +28,3 @@ Land which is characteristic of a village, town or city
 ## Datasets
 
 * [[built-up-area]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every2Years #OS/Unknown

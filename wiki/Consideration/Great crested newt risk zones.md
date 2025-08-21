@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Great crested newt risk zones
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where the distribution of great crested newts (GCN) has been categorised into zones
 
@@ -17,7 +17,3 @@ Areas where the distribution of great crested newts (GCN) has been categorised i
 
 * [Great crested newt risk zones consideration](https://design.planning.data.gov.uk/planning-consideration/great-crested-newt-risk-zones)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/169)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

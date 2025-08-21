@@ -11,7 +11,7 @@ useful-links:
   link_url: https://www.bgs.ac.uk/products/digitalmaps/DiGMapGB_625.html
 ---
 
-# Consideration/Geology 625K
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Data identifying landscape areas (shown as polygons) attributed with geological names and rock type descriptions
 
@@ -19,7 +19,3 @@ Data identifying landscape areas (shown as polygons) attributed with geological 
 
 * [Geology 625K consideration](https://design.planning.data.gov.uk/planning-consideration/geology-625k)
 * [National dataset documentation page](https://www.bgs.ac.uk/products/digitalmaps/DiGMapGB_625.html)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

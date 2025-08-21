@@ -9,7 +9,7 @@ tags:
 - Tag/LocalInformation
 ---
 
-# Consideration/Coastal topographic surveys
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Surveys covering beaches, dunes, cliffs, saltmarshes and coastal defence structures
 
@@ -17,7 +17,3 @@ Surveys covering beaches, dunes, cliffs, saltmarshes and coastal defence structu
 
 * [Coastal topographic surveys consideration](https://design.planning.data.gov.uk/planning-consideration/coastal-topographic-surveys)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/132)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

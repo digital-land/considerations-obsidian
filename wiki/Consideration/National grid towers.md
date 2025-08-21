@@ -14,7 +14,7 @@ useful-links:
   link_url: https://www.nationalgridet.com/network-and-assets/network-route-maps
 ---
 
-# Consideration/National grid towers
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Structural supports, known as pylons, that carry the UK’s network of high-voltage overhead power lines
 
@@ -23,7 +23,3 @@ Structural supports, known as pylons, that carry the UK’s network of high-volt
 * [National grid towers consideration](https://design.planning.data.gov.uk/planning-consideration/national-grid-towers)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/82)
 * [National dataset documentation page](https://www.nationalgridet.com/network-and-assets/network-route-maps)
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

@@ -10,7 +10,7 @@ useful-links:
   link_url: https://ckan.publishing.service.gov.uk/dataset/dune-slack-likely-locations
 ---
 
-# Consideration/Dune slack likely locations
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Likely locations and boundaries of dune slacks (a depression in the coastal dune system) for sites around England
 
@@ -18,7 +18,3 @@ Likely locations and boundaries of dune slacks (a depression in the coastal dune
 
 * [Dune slack likely locations consideration](https://design.planning.data.gov.uk/planning-consideration/dune-slack-likely-locations)
 * [National dataset documentation page](https://ckan.publishing.service.gov.uk/dataset/dune-slack-likely-locations)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

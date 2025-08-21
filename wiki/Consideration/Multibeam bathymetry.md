@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Multibeam bathymetry
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 High resolution elevation information of underwater terrain
 
 ## Links
 
 * [Multibeam bathymetry consideration](https://design.planning.data.gov.uk/planning-consideration/multibeam-bathymetry)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

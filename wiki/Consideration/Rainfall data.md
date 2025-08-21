@@ -10,7 +10,7 @@ useful-links:
   link_url: https://environment.data.gov.uk/flood-monitoring/doc/rainfall
 ---
 
-# Consideration/Rainfall data
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Rainfall measurements across the UK
 
@@ -18,7 +18,3 @@ Rainfall measurements across the UK
 
 * [Rainfall data consideration](https://design.planning.data.gov.uk/planning-consideration/rainfall-data)
 * [National dataset documentation page](https://environment.data.gov.uk/flood-monitoring/doc/rainfall)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

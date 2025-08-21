@@ -10,7 +10,7 @@ useful-links:
   link_url: https://ckan.publishing.service.gov.uk/dataset/vertical-aerial-photography
 ---
 
-# Consideration/Vertical aerial photography
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Airborne mapping technique
 
@@ -18,7 +18,3 @@ Airborne mapping technique
 
 * [Vertical aerial photography consideration](https://design.planning.data.gov.uk/planning-consideration/vertical-aerial-photography)
 * [National dataset documentation page](https://ckan.publishing.service.gov.uk/dataset/vertical-aerial-photography)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

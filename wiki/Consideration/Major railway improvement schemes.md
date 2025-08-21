@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Major railway improvement schemes
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Major railway improvement schemes consideration](https://design.planning.data.gov.uk/planning-consideration/major-railway-improvement-schemes)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

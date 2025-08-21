@@ -14,7 +14,7 @@ useful-links:
   link_url: https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads
 ---
 
-# Consideration/Open roads
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 High-level view of the road network, from motorways to country lanes
 
@@ -23,7 +23,3 @@ High-level view of the road network, from motorways to country lanes
 * [Open roads consideration](https://design.planning.data.gov.uk/planning-consideration/open-roads)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/83)
 * [National dataset documentation page](https://www.ordnancesurvey.co.uk/business-government/products/open-map-roads)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

@@ -13,7 +13,7 @@ useful-links:
   link_url: https://www.ordnancesurvey.co.uk/business-government/products/open-map-greenspace
 ---
 
-# Consideration/Green space
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Places that are intentionally not developed
 
@@ -22,7 +22,3 @@ Places that are intentionally not developed
 * [Green space consideration](https://design.planning.data.gov.uk/planning-consideration/open-green-space)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
 * [National dataset documentation page](https://www.ordnancesurvey.co.uk/business-government/products/open-map-greenspace)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

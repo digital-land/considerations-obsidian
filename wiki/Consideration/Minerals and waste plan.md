@@ -10,7 +10,7 @@ tags:
 - Tag/SafeguardedLand
 ---
 
-# Consideration/Minerals and waste plan
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Locations for future minerals extraction (such as sand and gravel pits or crushed rock quarries) and for the development of waste management facilities (such as recycling centres)
 
@@ -18,7 +18,3 @@ Locations for future minerals extraction (such as sand and gravel pits or crushe
 
 * [Minerals and waste plan consideration](https://design.planning.data.gov.uk/planning-consideration/minerals-and-waste-plan)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/212)
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

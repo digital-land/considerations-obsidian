@@ -14,7 +14,7 @@ tags:
 - Tag/SafeguardedLand
 ---
 
-# Consideration/Safeguarding aerodromes, technical sites and military explosives storage areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas which are safeguarded specifically for aerodromes, technical sites and military explosives storage.
 
@@ -27,7 +27,3 @@ Areas which are safeguarded specifically for aerodromes, technical sites and mil
 
 * [[safeguarded-military-explosives-site]]
 * [[safeguarded-aerodrome]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

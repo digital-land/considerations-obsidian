@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Local planning authority
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The planning department of the district or borough council
 
@@ -23,7 +23,3 @@ The planning department of the district or borough council
 ## Datasets
 
 * [[local-planning-authority]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

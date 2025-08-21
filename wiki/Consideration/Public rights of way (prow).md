@@ -12,7 +12,7 @@ tags:
 - Tag/LocalLandCharge
 ---
 
-# Consideration/Public rights of way (prow)
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Specific routes the public have a legal right to use across land that may be owned by a private individual
 
@@ -21,7 +21,3 @@ Specific routes the public have a legal right to use across land that may be own
 * [Public rights of way (prow) consideration](https://design.planning.data.gov.uk/planning-consideration/public-rights-of-way)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/295)
 * [Legislation](https://www.legislation.gov.uk/ukpga/2000/37/contents)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

@@ -9,7 +9,7 @@ tags:
 - Tag/PlanningPermission
 ---
 
-# Consideration/Completion notices
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Documents that set a date when work on a new building or conversion should be complete
 
@@ -18,7 +18,3 @@ Documents that set a date when work on a new building or conversion should be co
 * [Completion notices consideration](https://design.planning.data.gov.uk/planning-consideration/completion-notices)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/135)
 * [Legislation](https://www.legislation.gov.uk/ukpga/2003/26/contents)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

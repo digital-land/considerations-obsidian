@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Special educational needs and disabilities (send)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Special educational needs and disabilities (SEND) can affect a child or young person’s ability to learn. Mainstream schools must provide access to services and extra support for SEND pupils, and there are also SEND-specific schools
 
@@ -18,7 +18,3 @@ Special educational needs and disabilities (SEND) can affect a child or young pe
 
 * [Special educational needs and disabilities (send) consideration](https://design.planning.data.gov.uk/planning-consideration/special-educational-needs-and-disabilities)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/257)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -12,7 +12,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Heritage action zone
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Grant-funded projects restoring historic environments
 
@@ -24,7 +24,3 @@ Grant-funded projects restoring historic environments
 ## Datasets
 
 * [[heritage-action-zone]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

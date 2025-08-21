@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Existing commitments
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The number of homes, within the Total Housing Requirement that are committed developments.
 
@@ -18,7 +18,3 @@ The number of homes, within the Total Housing Requirement that are committed dev
 
 * [Existing commitments consideration](https://design.planning.data.gov.uk/planning-consideration/existing-commitments)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/329)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

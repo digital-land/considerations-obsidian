@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Biosphere reserves
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where local people model how we can live with nature and use its resources sustainably. They are designated by UNESCO (United Nations Educational Scientific and Cultural Organisation)
 
@@ -17,7 +17,3 @@ Areas where local people model how we can live with nature and use its resources
 
 * [Biosphere reserves consideration](https://design.planning.data.gov.uk/planning-consideration/biosphere-reserves)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/120)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

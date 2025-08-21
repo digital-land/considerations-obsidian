@@ -14,7 +14,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Irreplaceable habitats
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Habitats that could not be recreated if damaged, such as ancient woodland, ancient and veteran trees, blanket bog, limestone pavement, sand dunes, salt marsh and lowland fens
 
@@ -23,7 +23,3 @@ Habitats that could not be recreated if damaged, such as ancient woodland, ancie
 * [Irreplaceable habitats consideration](https://design.planning.data.gov.uk/planning-consideration/irreplaceable-habitats)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/190)
 * [Legislation](https://www.legislation.gov.uk/uksi/2024/48/contents/made)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

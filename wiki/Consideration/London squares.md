@@ -9,7 +9,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/London squares
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Protected squares in London that should only be used as ornamental gardens, pleasure grounds or for play, rest or recreation
 
@@ -20,7 +20,3 @@ Protected squares in London that should only be used as ornamental gardens, plea
 ## Datasets
 
 * [[london-square]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

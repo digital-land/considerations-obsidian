@@ -19,7 +19,7 @@ useful-links:
   link_url: https://www.planning.data.gov.uk/dataset/permitted-development-right
 ---
 
-# Consideration/Permitted development rights
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Quarterly #OS/Unknown
 
 The right to carry out certain building works and changes of use without the need for a full planning application
 
@@ -35,7 +35,3 @@ The right to carry out certain building works and changes of use without the nee
 
 * [[permitted-development-right-part]]
 * [[permitted-development-right]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Quarterly #OS/Unknown

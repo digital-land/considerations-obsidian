@@ -11,7 +11,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Coal authority managed tips
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Disused colliery tip sites owned and managed by the Coal Authority
 
@@ -19,7 +19,3 @@ Disused colliery tip sites owned and managed by the Coal Authority
 
 * [Coal authority managed tips consideration](https://design.planning.data.gov.uk/planning-consideration/coal-authority-managed-tips)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/87)
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

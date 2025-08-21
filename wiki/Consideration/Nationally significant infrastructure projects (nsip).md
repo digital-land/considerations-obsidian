@@ -23,7 +23,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/guidance-on-procedural-requirements-for-major-infrastructure-projects
 ---
 
-# Consideration/Nationally significant infrastructure projects (nsip)
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Major infrastructure projects such as new harbours, roads, power generating stations (including offshore wind farms) and electricity transmission lines, which require a type of consent known as ‘development consent’
 
@@ -42,7 +42,3 @@ Major infrastructure projects such as new harbours, roads, power generating stat
 * [[infrastructure-project-log]]
 * [[infrastructure-project-type]]
 * [[infrastructure-project]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

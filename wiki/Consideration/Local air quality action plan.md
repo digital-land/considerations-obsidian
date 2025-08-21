@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Local air quality action plan
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Plan that outlines local action to improve air quality
 
@@ -20,7 +20,3 @@ Plan that outlines local action to improve air quality
 * [Local air quality action plan consideration](https://design.planning.data.gov.uk/planning-consideration/local-air-quality-action-plan)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/200)
 * [Legislation](https://www.legislation.gov.uk/ukpga/1995/25/contents)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

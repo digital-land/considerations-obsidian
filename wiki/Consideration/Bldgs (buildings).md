@@ -8,7 +8,7 @@ tags:
 - Tag/Data
 ---
 
-# Consideration/Bldgs (buildings)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Tall buildings over 50m
 
@@ -16,7 +16,3 @@ Tall buildings over 50m
 
 * [Bldgs (buildings) consideration](https://design.planning.data.gov.uk/planning-consideration/bldgs)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/121)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

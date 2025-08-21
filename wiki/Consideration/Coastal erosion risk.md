@@ -15,7 +15,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/updates-to-national-flood-and-coastal-erosion-risk-information
 ---
 
-# Consideration/Coastal erosion risk
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -24,7 +24,3 @@ useful-links:
 * [Coastal erosion risk consideration](https://design.planning.data.gov.uk/planning-consideration/coastal-erosion-risk)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/309)
 * [New national flood and coastal erosion risk information](https://www.gov.uk/guidance/updates-to-national-flood-and-coastal-erosion-risk-information)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

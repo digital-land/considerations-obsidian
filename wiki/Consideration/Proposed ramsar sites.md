@@ -16,7 +16,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Proposed ramsar sites
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Proposed boundaries of wetlands of international importance
 
@@ -29,7 +29,3 @@ Proposed boundaries of wetlands of international importance
 ## Datasets
 
 * [[proposed-ramsar-site]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -13,7 +13,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Best and most versatile agricultural land
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Land considered the most capable of growing crops for food and non-food uses
 
@@ -26,7 +26,3 @@ Land considered the most capable of growing crops for food and non-food uses
 ## Datasets
 
 * [[best-and-most-versatile-agricultural-land]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

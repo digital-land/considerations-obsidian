@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Species data
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Curated database of UK wildlife taxonomy 
 
 ## Links
 
 * [Species data consideration](https://design.planning.data.gov.uk/planning-consideration/species-data)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

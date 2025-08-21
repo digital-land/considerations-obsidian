@@ -14,7 +14,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Development plan policies
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -29,7 +29,3 @@ tags:
 * [[development-policy-category]]
 * [[development-policy-metric]]
 * [[development-policy]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

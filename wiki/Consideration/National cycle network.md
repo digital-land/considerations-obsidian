@@ -12,7 +12,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/National cycle network
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The UK-wide network of signed paths and routes for walking, wheeling, and cycling outdoors
 
@@ -20,7 +20,3 @@ The UK-wide network of signed paths and routes for walking, wheeling, and cyclin
 
 * [National cycle network consideration](https://design.planning.data.gov.uk/planning-consideration/national-cycle-network)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/215)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

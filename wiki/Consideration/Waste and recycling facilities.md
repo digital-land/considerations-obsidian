@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Waste and recycling facilities
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Specialist locations where waste is taken to be sorted, separated, and recycled
 
@@ -17,7 +17,3 @@ Specialist locations where waste is taken to be sorted, separated, and recycled
 
 * [Waste and recycling facilities consideration](https://design.planning.data.gov.uk/planning-consideration/waste-and-recycling-facilities)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/271)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Critical drainage areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -18,7 +18,3 @@ tags:
 
 * [Critical drainage areas consideration](https://design.planning.data.gov.uk/planning-consideration/critical-drainage-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/143)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

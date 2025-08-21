@@ -10,7 +10,7 @@ tags:
 - Tag/LocalLandCharge
 ---
 
-# Consideration/Opencast coal prospecting areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas of opencast coal prospecting sites.
 
@@ -18,7 +18,3 @@ Areas of opencast coal prospecting sites.
 
 * [Opencast coal prospecting areas consideration](https://design.planning.data.gov.uk/planning-consideration/opencast-coal-prospecting-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/223)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

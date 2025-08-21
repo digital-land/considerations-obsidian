@@ -8,7 +8,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Supplementary plans
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Through the LURA, supplementary plans were introduced (as a replacement for 'supplementary planning documents'. Supplementary plans are only able to cover specific topics, must now go through examination, and as such, carry more weight.
 
@@ -16,7 +16,3 @@ Through the LURA, supplementary plans were introduced (as a replacement for 'sup
 
 * [Supplementary plans consideration](https://design.planning.data.gov.uk/planning-consideration/supplementary-plans)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/287)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

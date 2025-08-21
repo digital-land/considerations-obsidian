@@ -19,7 +19,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1eVDL6kCLqI4v600yQqr0p5Eb_YSW9zSiT5St-Fcr4hc/edit?usp=sharing
 ---
 
-# Consideration/Locally listed buildings
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A building recognised by the local authority (but not nationally) as having local importance due to its architectural, historical or environmental significance
 
@@ -32,7 +32,3 @@ A building recognised by the local authority (but not nationally) as having loca
 ## Datasets
 
 * [[locally-listed-building]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

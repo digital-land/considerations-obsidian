@@ -8,14 +8,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Air quality management locations
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Locations of air quality monitoring sites
 
 ## Links
 
 * [Air quality management locations consideration](https://design.planning.data.gov.uk/planning-consideration/air-quality-management-locations)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

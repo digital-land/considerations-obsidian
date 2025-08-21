@@ -12,7 +12,7 @@ tags:
 - Tag/Landscape
 ---
 
-# Consideration/Religious grounds
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Green space or greenspace is an area of undeveloped land in an urban context which is not usually available for development, such as playing fields, sports’ facilities, play areas and allotments.
 
@@ -20,7 +20,3 @@ Green space or greenspace is an area of undeveloped land in an urban context whi
 
 * [Religious grounds consideration](https://design.planning.data.gov.uk/planning-consideration/religious-grounds)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

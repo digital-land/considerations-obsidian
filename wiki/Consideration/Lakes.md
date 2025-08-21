@@ -11,7 +11,7 @@ tags:
 - Tag/Landscape
 ---
 
-# Consideration/Lakes
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Large areas of fresh water surrounded by land
 
@@ -19,7 +19,3 @@ Large areas of fresh water surrounded by land
 
 * [Lakes consideration](https://design.planning.data.gov.uk/planning-consideration/lakes)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/191)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

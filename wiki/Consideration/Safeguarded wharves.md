@@ -12,7 +12,7 @@ tags:
 - Tag/SafeguardedLand
 ---
 
-# Consideration/Safeguarded wharves
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Wharves in London which have been given special status to ensure they are retained as working wharves and are protected from redevelopment
 
@@ -24,7 +24,3 @@ Wharves in London which have been given special status to ensure they are retain
 ## Datasets
 
 * [[safeguarded-wharf]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

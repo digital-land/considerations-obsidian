@@ -11,7 +11,7 @@ tags:
 - Tag/Footnote7
 ---
 
-# Consideration/Priority habitat inventory
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Geographic extent and location of habitats of principal importance
 
@@ -19,7 +19,3 @@ Geographic extent and location of habitats of principal importance
 
 * [Priority habitat inventory consideration](https://design.planning.data.gov.uk/planning-consideration/priority-habitat-inventory)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/233)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

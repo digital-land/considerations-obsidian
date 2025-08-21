@@ -13,7 +13,7 @@ useful-links:
   link_url: https://environment.data.gov.uk/arcgis/rest/services/EA/FloodMapForPlanningRiversAndSeaFloodZone2/MapServer/0
 ---
 
-# Consideration/Flood risk zones 2
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 An area with between 0.1% (1 in 1000) and 1% (1 in 100) chance of flooding from rivers or between 0.1% (1 in 1000) and 0.5% (1 in 200) chance of flooding from the sea
 
@@ -23,7 +23,3 @@ An area with between 0.1% (1 in 1000) and 1% (1 in 100) chance of flooding from 
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/46)
 * [National dataset documentation page](https://ckan.publishing.service.gov.uk/dataset/flood-map-for-planning-rivers-and-sea-flood-zone-2)
 * [URL of national dataset](https://environment.data.gov.uk/arcgis/rest/services/EA/FloodMapForPlanningRiversAndSeaFloodZone2/MapServer/0)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

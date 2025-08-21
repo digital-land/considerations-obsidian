@@ -14,7 +14,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1YgFbQ_-ye98hrGYQg9j5HXtPeVrr8Zcx_08NHAlWe6c/edit
 ---
 
-# Consideration/Safety hazard areas
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -27,7 +27,3 @@ useful-links:
 ## Datasets
 
 * [[safety-hazard-area]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

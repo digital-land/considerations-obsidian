@@ -10,7 +10,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Nuclear consultation zone
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Consultation zones to limit the radiological consequences to members of the public in the event of a radiation emergency
 
@@ -18,7 +18,3 @@ Consultation zones to limit the radiological consequences to members of the publ
 
 * [Nuclear consultation zone consideration](https://design.planning.data.gov.uk/planning-consideration/nuclear-consultation-zone)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/221)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

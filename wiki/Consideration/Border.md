@@ -12,7 +12,7 @@ tags:
 - Tag/Boundary
 ---
 
-# Consideration/Border
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 The boundary of England as provided by the ONS for the purposes of producing statistics.
 
@@ -24,7 +24,3 @@ The boundary of England as provided by the ONS for the purposes of producing sta
 ## Datasets
 
 * [[border]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

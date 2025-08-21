@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Higher education
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Both undergraduate and postgraduate courses, typically attended in higher education institutions, such as Universities.
 
@@ -18,7 +18,3 @@ Both undergraduate and postgraduate courses, typically attended in higher educat
 
 * [Higher education consideration](https://design.planning.data.gov.uk/planning-consideration/higher-education)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/180)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

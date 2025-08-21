@@ -18,7 +18,7 @@ useful-links:
   link_url: https://historicengland.org.uk/services-skills/our-planning-services/greater-london-archaeology-advisory-service/greater-london-archaeological-priority-areas/
 ---
 
-# Consideration/Greater london archaeological priority areas
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Quarterly #OS/Unknown
 
 Areas of Greater London where there is significant known archaeological interest or potential for new discoveries
 
@@ -31,7 +31,3 @@ Areas of Greater London where there is significant known archaeological interest
 ## Datasets
 
 * [[archaeological-priority-area]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Quarterly #OS/Unknown

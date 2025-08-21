@@ -9,7 +9,7 @@ tags:
 - Tag/Heritage
 ---
 
-# Consideration/Historic environment record
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Details of local archaeological sites and finds, historic buildings and historic landscapes
 
@@ -17,7 +17,3 @@ Details of local archaeological sites and finds, historic buildings and historic
 
 * [Historic environment record consideration](https://design.planning.data.gov.uk/planning-consideration/historic-environment-record)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/182)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

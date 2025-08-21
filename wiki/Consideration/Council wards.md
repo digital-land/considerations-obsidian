@@ -19,7 +19,7 @@ useful-links:
   link_url: https://geoportal.statistics.gov.uk/documents/4d9aa61b06a64ec1b7cc4aecbcfbb7a9/about
 ---
 
-# Consideration/Council wards
+#Consideration #Stage/TestAndIterate #Prioritised/False #UpdateFrequency/Quarterly #OS/Unknown
 
 Local areas that have been divided for voting purposes
 
@@ -33,7 +33,3 @@ Local areas that have been divided for voting purposes
 ## Datasets
 
 * [[ward]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Quarterly #OS/Unknown

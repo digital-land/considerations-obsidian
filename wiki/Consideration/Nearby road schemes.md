@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Nearby road schemes
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Nearby road schemes consideration](https://design.planning.data.gov.uk/planning-consideration/nearby-road-schemes)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

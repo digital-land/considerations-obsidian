@@ -14,7 +14,7 @@ useful-links:
   link_url: https://opendata-rspb.opendata.arcgis.com/datasets/c38f60f68f094f269d90db26b1381837_0
 ---
 
-# Consideration/Important bird areas
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas identified as being globally important for the conservation of bird populations
 
@@ -23,7 +23,3 @@ Areas identified as being globally important for the conservation of bird popula
 * [Important bird areas consideration](https://design.planning.data.gov.uk/planning-consideration/important-bird-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/66)
 * [National dataset documentation page](https://opendata-rspb.opendata.arcgis.com/datasets/c38f60f68f094f269d90db26b1381837_0)
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

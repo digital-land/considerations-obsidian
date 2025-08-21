@@ -10,7 +10,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Special roadside verges
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Uncultivated areas of grassland next to roads in an intensively farmed landscape
 
@@ -18,7 +18,3 @@ Uncultivated areas of grassland next to roads in an intensively farmed landscape
 
 * [Special roadside verges consideration](https://design.planning.data.gov.uk/planning-consideration/special-roadside-verges)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/258)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

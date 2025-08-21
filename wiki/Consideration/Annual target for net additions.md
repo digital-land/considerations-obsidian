@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Annual target for net additions
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The total housing requirement presented on an annual basis for the plan period as calculated by the Local Planning Authority
 
@@ -18,7 +18,3 @@ The total housing requirement presented on an annual basis for the plan period a
 
 * [Annual target for net additions consideration](https://design.planning.data.gov.uk/planning-consideration/annual-target-for-net-additions)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/327)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

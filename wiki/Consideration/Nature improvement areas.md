@@ -17,7 +17,7 @@ useful-links:
   link_url: https://data.gov.uk/dataset/a19c95e3-9657-457d-825e-3d2f3993b653/nature-improvement-areas
 ---
 
-# Consideration/Nature improvement areas
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Areas of the country where partnerships have been set up to enhance the natural environment
 
@@ -30,7 +30,3 @@ Areas of the country where partnerships have been set up to enhance the natural 
 ## Datasets
 
 * [[nature-improvement-area]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/Unknown

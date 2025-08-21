@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Seabird nesting counts
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Counts of breeding seabirds
 
@@ -17,7 +17,3 @@ Counts of breeding seabirds
 
 * [Seabird nesting counts consideration](https://design.planning.data.gov.uk/planning-consideration/seabird-nesting-counts)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/249)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

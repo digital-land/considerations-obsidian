@@ -9,7 +9,7 @@ tags:
 - Tag/LocalInformation
 ---
 
-# Consideration/Coal authority mine water treatment schemes
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Locations where mine water is treated to improve water quality in polluted rivers
 
@@ -17,7 +17,3 @@ Locations where mine water is treated to improve water quality in polluted river
 
 * [Coal authority mine water treatment schemes consideration](https://design.planning.data.gov.uk/planning-consideration/coal-authority-mine-water-treatment-schemes)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/126)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

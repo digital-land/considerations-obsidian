@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Golf courses
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Large areas of grass specially designed for people to play golf on
 
@@ -18,7 +18,3 @@ Large areas of grass specially designed for people to play golf on
 
 * [Golf courses consideration](https://design.planning.data.gov.uk/planning-consideration/golf-courses)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Wildbelt designations
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Land currently of low biodiversity value that is designated for nature's recovery
 
@@ -19,7 +19,3 @@ Land currently of low biodiversity value that is designated for nature's recover
 
 * [Wildbelt designations consideration](https://design.planning.data.gov.uk/planning-consideration/wildbelt-designations)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/275)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

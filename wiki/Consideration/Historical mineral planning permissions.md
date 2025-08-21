@@ -10,7 +10,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Historical mineral planning permissions
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Boundaries for permitted, withdrawn and refused mineral planning permissions for England and Wales
 
@@ -18,7 +18,3 @@ Boundaries for permitted, withdrawn and refused mineral planning permissions for
 
 * [Historical mineral planning permissions consideration](https://design.planning.data.gov.uk/planning-consideration/historical-mineral-planning-permissions)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/181)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

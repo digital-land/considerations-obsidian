@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Primary healthcare
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Primary care services provide the first point of contact in the healthcare system, including GPs, pharmacies, dentists, and optometrists
 
@@ -18,7 +18,3 @@ Primary care services provide the first point of contact in the healthcare syste
 
 * [Primary healthcare consideration](https://design.planning.data.gov.uk/planning-consideration/primary-healthcare)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/231)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

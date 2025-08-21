@@ -9,7 +9,7 @@ tags:
 - Tag/ControlledWaters
 ---
 
-# Consideration/Water stressed areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where the demand for water exceeds the available amount
 
@@ -17,7 +17,3 @@ Areas where the demand for water exceeds the available amount
 
 * [Water stressed areas consideration](https://design.planning.data.gov.uk/planning-consideration/water-stressed-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/274)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

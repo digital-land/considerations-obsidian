@@ -9,7 +9,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Local validation checklist
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -17,7 +17,3 @@ tags:
 
 * [Local validation checklist consideration](https://design.planning.data.gov.uk/planning-consideration/local-validation-checklist)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/52)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

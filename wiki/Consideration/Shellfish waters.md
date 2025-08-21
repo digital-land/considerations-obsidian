@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Shellfish waters
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas designated for the protection of shellfish growth and production
 
@@ -17,7 +17,3 @@ Areas designated for the protection of shellfish growth and production
 
 * [Shellfish waters consideration](https://design.planning.data.gov.uk/planning-consideration/shellfish-waters)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/253)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -13,7 +13,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/local-planning-authorities-strategic-flood-risk-assessment
 ---
 
-# Consideration/Strategic flood risk assessments
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A Strategic Flood Risk Assessments are undertaken by local planning authorities and inform local flood risk
 
@@ -22,7 +22,3 @@ A Strategic Flood Risk Assessments are undertaken by local planning authorities 
 * [Strategic flood risk assessments consideration](https://design.planning.data.gov.uk/planning-consideration/strategic-flood-risk-assessments)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/260)
 * [How to prepare a strategic flood risk assessment](https://www.gov.uk/guidance/local-planning-authorities-strategic-flood-risk-assessment)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

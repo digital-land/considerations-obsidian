@@ -15,7 +15,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Protected views
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Legal requirement to preserve the view of a specific place or historic building from another location
 
@@ -28,7 +28,3 @@ Legal requirement to preserve the view of a specific place or historic building 
 ## Datasets
 
 * [[protected-view]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

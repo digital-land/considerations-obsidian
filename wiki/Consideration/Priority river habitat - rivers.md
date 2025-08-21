@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Priority river habitat - rivers
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Rivers and streams that exhibit a high degree of naturalness
 
 ## Links
 
 * [Priority river habitat - rivers consideration](https://design.planning.data.gov.uk/planning-consideration/priority-river-habitat-rivers)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

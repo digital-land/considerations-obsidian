@@ -9,7 +9,7 @@ tags:
 - Tag/Health
 ---
 
-# Consideration/Integrated care board (icb)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Partnerships between the NHS, councils and the voluntary sector to improve health and care services
 
@@ -17,7 +17,3 @@ Partnerships between the NHS, councils and the voluntary sector to improve healt
 
 * [Integrated care board (icb) consideration](https://design.planning.data.gov.uk/planning-consideration/integrated-care-board)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/187)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

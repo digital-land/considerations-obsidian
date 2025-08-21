@@ -9,7 +9,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Transport (under TCPA route)
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Different types of transport infrastructure including walking and cycling routes, public transport, parking, large scale transport facilities such as ports, airports and interchanges for rail freight
 
@@ -20,7 +20,3 @@ Different types of transport infrastructure including walking and cycling routes
 ## Datasets
 
 * [[transport-under-tcpa-route]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

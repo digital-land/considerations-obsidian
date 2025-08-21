@@ -22,7 +22,7 @@ useful-links:
     Agricultural Land Classification (ALC) (England)/FeatureServer/0/query?outFields=*&where=1%3D1&f=geojson
 ---
 
-# Consideration/Agricultural land classification
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A system that grades the quality of land for agricultural use
 
@@ -37,7 +37,3 @@ A system that grades the quality of land for agricultural use
 ## Datasets
 
 * [[agricultural-land-classification]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Unknown #OS/Unknown

@@ -8,7 +8,7 @@ tags:
 - Tag/Constraint
 ---
 
-# Consideration/Topography
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Data describing the relief of the land needed to remove steep or inaccessible sites otherwise unsuitable for development.
 
@@ -16,7 +16,3 @@ Data describing the relief of the land needed to remove steep or inaccessible si
 
 * [Topography consideration](https://design.planning.data.gov.uk/planning-consideration/topography)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/266)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

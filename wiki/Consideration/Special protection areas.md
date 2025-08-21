@@ -22,7 +22,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/duty-to-protect-conserve-and-restore-european-sites
 ---
 
-# Consideration/Special protection areas
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 An area containing bird habitats and species that need conservation
 
@@ -36,7 +36,3 @@ An area containing bird habitats and species that need conservation
 ## Datasets
 
 * [[special-protection-area]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

@@ -9,7 +9,7 @@ tags:
 - Tag/Boundary
 ---
 
-# Consideration/Local environment record centre boundaries
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Local Environmental Records Centre (LERC) areas
 
@@ -17,7 +17,3 @@ Local Environmental Records Centre (LERC) areas
 
 * [Local environment record centre boundaries consideration](https://design.planning.data.gov.uk/planning-consideration/local-environment-record-centre-boundaries)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/201)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

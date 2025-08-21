@@ -12,7 +12,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Designated neighbourhood forums
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Organisations or groups empowered to lead the neighbourhood planning process in a neighbourhood area where there is no town or parish council
 
@@ -25,7 +25,3 @@ Organisations or groups empowered to lead the neighbourhood planning process in 
 ## Datasets
 
 * [[neighbourhood-forum]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

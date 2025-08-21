@@ -12,7 +12,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Parish
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Annually #OS/Unknown
 
 The smallest type of local government administrative area in England
 
@@ -24,7 +24,3 @@ The smallest type of local government administrative area in England
 ## Datasets
 
 * [[parish]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown

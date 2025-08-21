@@ -8,14 +8,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Wellmaster hydrogeological database index
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Information on water wells and boreholes
 
 ## Links
 
 * [Wellmaster hydrogeological database index consideration](https://design.planning.data.gov.uk/planning-consideration/wellmaster-hydrogeological-database-index)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

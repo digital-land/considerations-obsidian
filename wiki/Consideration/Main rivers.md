@@ -17,7 +17,7 @@ useful-links:
   link_url: https://www.ordnancesurvey.co.uk/business-government/products/open-map-rivers
 ---
 
-# Consideration/Main rivers
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Designated larger rivers and streams
 
@@ -30,7 +30,3 @@ Designated larger rivers and streams
 ## Datasets
 
 * [[main-river]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

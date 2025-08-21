@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/National character areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Geographically unique areas of the UK
 
@@ -17,7 +17,3 @@ Geographically unique areas of the UK
 
 * [National character areas consideration](https://design.planning.data.gov.uk/planning-consideration/national-character-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/213)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

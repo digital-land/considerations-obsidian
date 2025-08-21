@@ -8,7 +8,7 @@ tags:
 - Tag/Opportunity
 ---
 
-# Consideration/Previously developed land
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Specifically used by local planning authorities when considering releasing green belt and has very specific requirements and purposes.
 
@@ -16,7 +16,3 @@ Specifically used by local planning authorities when considering releasing green
 
 * [Previously developed land consideration](https://design.planning.data.gov.uk/planning-consideration/previously-developed-land)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/315)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -12,7 +12,7 @@ useful-links:
   link_url: https://osdatahub.os.uk/downloads/open/OpenUPRN
 ---
 
-# Consideration/Uprn
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Weeks #OS/Unknown
 
 Unique Property Reference Number (UPRN) is the unique identifier for every addressable location in the UK
 
@@ -21,7 +21,3 @@ Unique Property Reference Number (UPRN) is the unique identifier for every addre
 * [Uprn consideration](https://design.planning.data.gov.uk/planning-consideration/uprn)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/72)
 * [National dataset documentation page](https://osdatahub.os.uk/downloads/open/OpenUPRN)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Weeks #OS/Unknown

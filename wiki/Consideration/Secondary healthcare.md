@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Secondary healthcare
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Secondary healthcare includes facilities where patients have been referred, such as hospitals, mental health services, community health facilities and sexual health services
 
@@ -18,7 +18,3 @@ Secondary healthcare includes facilities where patients have been referred, such
 
 * [Secondary healthcare consideration](https://design.planning.data.gov.uk/planning-consideration/secondary-healthcare)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/250)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -16,7 +16,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1iGOw61rjvFIqZHR8RzL6yGXcjs0EYHQdHNEANUdF3Jc/edit
 ---
 
-# Consideration/Land registry polygons / red line boundaries
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Monthly #OS/Unknown
 
 The indicative shapes and positions of each boundary of registered titles for land and property
 
@@ -29,7 +29,3 @@ The indicative shapes and positions of each boundary of registered titles for la
 ## Datasets
 
 * [[title-boundary]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Monthly #OS/Unknown

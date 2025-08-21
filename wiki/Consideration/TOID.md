@@ -10,7 +10,7 @@ useful-links:
   link_url: https://osdatahub.os.uk/downloads/open/OpenTOID
 ---
 
-# Consideration/TOID
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A unique reference identifier assigned by Ordnance Survey to identify every topographical feature 
 
@@ -18,7 +18,3 @@ A unique reference identifier assigned by Ordnance Survey to identify every topo
 
 * [TOID consideration](https://design.planning.data.gov.uk/planning-consideration/toid)
 * [National dataset documentation page](https://osdatahub.os.uk/downloads/open/OpenTOID)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

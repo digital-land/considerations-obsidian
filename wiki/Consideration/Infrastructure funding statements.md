@@ -15,7 +15,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Infrastructure funding statements
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Annually #OS/Unknown
 
 A summary of financial contributions councils have secured through section 106 agreements from new developments
 
@@ -28,7 +28,3 @@ A summary of financial contributions councils have secured through section 106 a
 ## Datasets
 
 * [[infrastructure-funding-statement]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Annually #OS/Unknown

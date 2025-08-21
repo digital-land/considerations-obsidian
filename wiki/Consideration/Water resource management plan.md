@@ -10,7 +10,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/Water resource management plan
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Water Resource Management Plans (WRMPs) set out how water companies intend to achieve a secure supply of water for their customers while protecting and enhancing the environment.
 
@@ -18,7 +18,3 @@ Water Resource Management Plans (WRMPs) set out how water companies intend to ac
 
 * [Water resource management plan consideration](https://design.planning.data.gov.uk/planning-consideration/water-resource-management-plan)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/282)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -11,7 +11,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Public safety zone around airport
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 End of runway areas where development is restricted for public safety
 
@@ -23,7 +23,3 @@ End of runway areas where development is restricted for public safety
 ## Datasets
 
 * [[public-safety-zone-around-airport]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

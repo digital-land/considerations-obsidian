@@ -15,7 +15,7 @@ tags:
 - Tag/Opportunity
 ---
 
-# Consideration/Contaminated land
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Land where substances are causing or could cause:
 
@@ -32,7 +32,3 @@ Land where substances are causing or could cause:
 ## Datasets
 
 * [[contaminated-land]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

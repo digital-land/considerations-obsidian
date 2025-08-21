@@ -12,7 +12,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Playing fields
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Land in the open air provided for physical education or recreation
 
@@ -20,7 +20,3 @@ Land in the open air provided for physical education or recreation
 
 * [Playing fields consideration](https://design.planning.data.gov.uk/planning-consideration/playing-fields)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

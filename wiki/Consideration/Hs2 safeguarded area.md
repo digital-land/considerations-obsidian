@@ -14,7 +14,7 @@ tags:
 - Tag/SafeguardedLand
 ---
 
-# Consideration/Hs2 safeguarded area
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Protected land that might be needed to build the HS2 railway
 
@@ -27,7 +27,3 @@ Protected land that might be needed to build the HS2 railway
 ## Datasets
 
 * [[hs2-safeguarded-area]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

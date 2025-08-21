@@ -9,7 +9,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Wildlife
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Undomesticated animal species
 
@@ -20,7 +20,3 @@ Undomesticated animal species
 ## Datasets
 
 * [[wildlife]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

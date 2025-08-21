@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/CASI multispectral imagery
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [CASI multispectral imagery consideration](https://design.planning.data.gov.uk/planning-consideration/casi-multispectral-imagery)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

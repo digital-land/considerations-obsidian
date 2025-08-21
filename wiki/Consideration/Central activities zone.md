@@ -21,7 +21,7 @@ useful-links:
   link_url: https://www.london.gov.uk/sites/default/files/2022-11/CLFJ9889-Future-actions-221122-WEB_optimised.pdf
 ---
 
-# Consideration/Central activities zone
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Central areas of London with implications for planning designated by the Greater London Authority (GLA)
 
@@ -37,7 +37,3 @@ Central areas of London with implications for planning designated by the Greater
 ## Datasets
 
 * [[central-activities-zone]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

@@ -14,7 +14,7 @@ useful-links:
   link_url: https://data.gov.uk/dataset/e729abb9-aa6c-42c5-baec-b6673e2b3a62/country-parks-england
 ---
 
-# Consideration/Country parks
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas of countryside set aside for public recreation
 
@@ -23,7 +23,3 @@ Areas of countryside set aside for public recreation
 * [Country parks consideration](https://design.planning.data.gov.uk/planning-consideration/country-parks)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/140)
 * [National dataset documentation page](https://data.gov.uk/dataset/e729abb9-aa6c-42c5-baec-b6673e2b3a62/country-parks-england)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

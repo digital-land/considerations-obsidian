@@ -9,7 +9,7 @@ tags:
 - Tag/Boundary
 ---
 
-# Consideration/Nhs trusts
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 An organisational unit within the NHS that serves either a geographical area or a specialised function (such as an ambulance service)
 
@@ -17,7 +17,3 @@ An organisational unit within the NHS that serves either a geographical area or 
 
 * [Nhs trusts consideration](https://design.planning.data.gov.uk/planning-consideration/nhs-trusts)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/218)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

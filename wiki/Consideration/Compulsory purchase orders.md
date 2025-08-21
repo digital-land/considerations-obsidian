@@ -10,7 +10,7 @@ tags:
 - Tag/LocalLandCharge
 ---
 
-# Consideration/Compulsory purchase orders
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Orders that allow a public authority to acquire land without the consent of the owner
 
@@ -19,7 +19,3 @@ Orders that allow a public authority to acquire land without the consent of the 
 * [Compulsory purchase orders consideration](https://design.planning.data.gov.uk/planning-consideration/compulsory-purchase-orders)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/136)
 * [Legislation](https://www.legislation.gov.uk/ukpga/1965/56/contents)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

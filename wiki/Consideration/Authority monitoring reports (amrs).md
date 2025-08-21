@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Authority monitoring reports (amrs)
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Annually #OS/Unknown
 
 Local planning authorities must publish information at least annually, monitoring their progress on various planning activities, such as Local Plan preparation, activities relating to the duty to cooperate, indicators in the plan, and policies which are not being implemented.
 
@@ -18,7 +18,3 @@ Local planning authorities must publish information at least annually, monitorin
 
 * [Authority monitoring reports (amrs) consideration](https://design.planning.data.gov.uk/planning-consideration/annual-monitoring-reports)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/314)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown

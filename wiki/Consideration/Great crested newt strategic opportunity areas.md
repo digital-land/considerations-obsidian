@@ -8,7 +8,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Great crested newt strategic opportunity areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where new ponds would benefit great crested newt (GCN) populations
 
@@ -16,7 +16,3 @@ Areas where new ponds would benefit great crested newt (GCN) populations
 
 * [Great crested newt strategic opportunity areas consideration](https://design.planning.data.gov.uk/planning-consideration/great-crested-newt-strategic-opportunity-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/307)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

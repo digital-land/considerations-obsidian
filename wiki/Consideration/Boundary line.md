@@ -9,7 +9,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Boundary line
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Open OS product that maps every administrative boundary in detail for you
 
@@ -17,7 +17,3 @@ Open OS product that maps every administrative boundary in detail for you
 
 * [Boundary line consideration](https://design.planning.data.gov.uk/planning-consideration/boundary-line)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/77)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Every6Months #OS/Unknown

@@ -19,7 +19,7 @@ useful-links:
   link_url: http://data-forestry.opendata.arcgis.com/datasets/295e0278dc2641e2935c411d28908be9_0
 ---
 
-# Consideration/National forest inventory
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Annually #OS/Unknown
 
 All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover, or the potential to achieve it
 
@@ -28,7 +28,3 @@ All forest and woodland area over 0.5 hectare with a minimum of 20% canopy cover
 * [National forest inventory consideration](https://design.planning.data.gov.uk/planning-consideration/national-forest-inventory)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/84)
 * [National dataset documentation page](http://data-forestry.opendata.arcgis.com/datasets/295e0278dc2641e2935c411d28908be9_0)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Annually #OS/Unknown

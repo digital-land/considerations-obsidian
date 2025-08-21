@@ -22,7 +22,7 @@ useful-links:
   link_url: https://historicengland.org.uk/content/data-downloads-gis/parks-and-gardens/
 ---
 
-# Consideration/Historic parks and gardens
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Fortnightly #OS/Unknown
 
 Designed landscapes of special historical interest because of their layout, features and architectural decoration
 
@@ -37,7 +37,3 @@ Designed landscapes of special historical interest because of their layout, feat
 
 * [[park-and-garden-grade]]
 * [[park-and-garden]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

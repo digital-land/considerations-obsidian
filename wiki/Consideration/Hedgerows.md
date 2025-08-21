@@ -12,7 +12,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1NafrVW_dC2nvDTDBQvey-271aLLFpGlCpN-N30OZDn4/edit#heading=h.lb9do641w06g
 ---
 
-# Consideration/Hedgerows
+#Consideration #Stage/Screen #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Any boundary line of trees or shrubs over 20m long and less than 5m wide
 
@@ -21,7 +21,3 @@ Any boundary line of trees or shrubs over 20m long and less than 5m wide
 * [Hedgerows consideration](https://design.planning.data.gov.uk/planning-consideration/hedgerows)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/304)
 * [Fact sheet url](https://docs.google.com/document/d/1NafrVW_dC2nvDTDBQvey-271aLLFpGlCpN-N30OZDn4/edit#heading=h.lb9do641w06g)
-
-## Tags
-
-#Consideration #Stage/Screen #UpdateFrequency/Unknown #OS/Unknown

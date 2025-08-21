@@ -19,7 +19,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Heritage coast
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 A stretch of undeveloped coast designated for conservation
 
@@ -31,7 +31,3 @@ A stretch of undeveloped coast designated for conservation
 ## Datasets
 
 * [[heritage-coast]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

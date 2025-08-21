@@ -13,7 +13,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Allotments
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Land used by communities for growing vegetables, fruit, herbs or flowers which is not for profit
 
@@ -21,7 +21,3 @@ Land used by communities for growing vegetables, fruit, herbs or flowers which i
 
 * [Allotments consideration](https://design.planning.data.gov.uk/planning-consideration/allotments)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

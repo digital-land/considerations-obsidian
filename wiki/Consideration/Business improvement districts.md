@@ -9,7 +9,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Business improvement districts
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Business Improvement Districts are business led partnerships which are created through a ballot process to deliver additional services to local businesses.
 
@@ -17,7 +17,3 @@ Business Improvement Districts are business led partnerships which are created t
 
 * [Business improvement districts consideration](https://design.planning.data.gov.uk/planning-consideration/business-improvement-districts)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/311)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

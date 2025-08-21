@@ -17,7 +17,7 @@ useful-links:
   link_url: https://uk-air.defra.gov.uk/data/sca/
 ---
 
-# Consideration/Smoke control area
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where:
 - you cannot release smoke from a chimney
@@ -28,7 +28,3 @@ Areas where:
 * [Smoke control area consideration](https://design.planning.data.gov.uk/planning-consideration/smoke-control-area)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/86)
 * [National dataset documentation page](https://uk-air.defra.gov.uk/data/sca/)
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

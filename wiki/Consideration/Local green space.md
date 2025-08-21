@@ -16,7 +16,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Local green space
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Protected green areas demonstrably special to the local community, whether in a village or in a neighbourhood in a town or city
 
@@ -28,7 +28,3 @@ Protected green areas demonstrably special to the local community, whether in a 
 ## Datasets
 
 * [[local-green-space]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

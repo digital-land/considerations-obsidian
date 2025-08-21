@@ -24,7 +24,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1ZObCVL1dGKVEgputfdwPs-Ih43UH5Mradk4zvteeA_Y/edit#heading=h.lb9do641w06g
 ---
 
-# Consideration/Local nature reserves
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 A protected area of land designated by a local authority because of its special natural interest or educational value
 
@@ -40,7 +40,3 @@ A protected area of land designated by a local authority because of its special 
 ## Datasets
 
 * [[local-nature-reserve]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

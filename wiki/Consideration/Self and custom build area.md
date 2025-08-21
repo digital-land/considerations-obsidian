@@ -11,7 +11,7 @@ tags:
 - Tag/Opportunity
 ---
 
-# Consideration/Self and custom build area
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Plots for custom and self-build homes
 
@@ -23,7 +23,3 @@ Plots for custom and self-build homes
 ## Datasets
 
 * [[self-and-custom-buildarea]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

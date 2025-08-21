@@ -8,7 +8,7 @@ tags:
 - Tag/PlanningPermission
 ---
 
-# Consideration/Drainage agreements and consents
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Agreements in place to drain buildings in combination into an existing sewer through a private sewer, or consent for a building, or building extension to be built over or near a drain, sewer or disposal main
 
@@ -16,7 +16,3 @@ Agreements in place to drain buildings in combination into an existing sewer thr
 
 * [Drainage agreements and consents consideration](https://design.planning.data.gov.uk/planning-consideration/drainage-agreements-and-consents)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/150)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

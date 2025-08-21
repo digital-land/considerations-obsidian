@@ -16,7 +16,7 @@ useful-links:
   link_url: https://docs.google.com/document/d/1MGkEfDDjKrT17b-QSzwZffiOgKKQyWUrn9GufbpYZsc/edit?usp=sharing
 ---
 
-# Consideration/Local area requirements
+#Consideration #Stage/TestAndIterate #Prioritised/False #UpdateFrequency/Annually #OS/Unknown
 
 Requirements (sometimes known as validation checklists) that set out supporting information which applicants need to include with a planning application
 
@@ -29,7 +29,3 @@ Requirements (sometimes known as validation checklists) that set out supporting 
 ## Datasets
 
 * [[local-area-requirements]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Annually #OS/Unknown

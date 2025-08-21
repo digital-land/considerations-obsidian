@@ -19,7 +19,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Developer contributions
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Financial or physical contributions from developers towards the cost of providing appropriate infrastructure and services to support their development
 
@@ -37,7 +37,3 @@ Financial or physical contributions from developers towards the cost of providin
 * [[developer-agreement-transaction]]
 * [[developer-agreement-type]]
 * [[developer-agreement]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

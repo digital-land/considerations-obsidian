@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/GeoSure shrink-swell subsurface
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Map identifying areas of potential shrinking and swelling of the ground that are hidden from the surface underneath other solid formations 
 
 ## Links
 
 * [GeoSure shrink-swell subsurface consideration](https://design.planning.data.gov.uk/planning-consideration/geosure-shrink-swell-subsurface)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

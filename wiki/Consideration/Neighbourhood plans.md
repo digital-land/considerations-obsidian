@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Neighbourhood plans
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A plan prepared by a parish council or neighbourhood forum for a designated neighbourhood area, giving communities direct power to shape the development and growth of their local area
 
@@ -17,7 +17,3 @@ A plan prepared by a parish council or neighbourhood forum for a designated neig
 
 * [Neighbourhood plans consideration](https://design.planning.data.gov.uk/planning-consideration/neighbourhood-plans)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/37)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

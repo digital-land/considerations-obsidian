@@ -15,7 +15,7 @@ tags:
 - Tag/Footnote7
 ---
 
-# Consideration/Potential special protection areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Sites on which Government has initiated public consultation on the scientific case for designation as a Special Protection Area
 
@@ -28,7 +28,3 @@ Sites on which Government has initiated public consultation on the scientific ca
 ## Datasets
 
 * [[https://naturalengland-defra.opendata.arcgis.com/datasets/6c8aa0f765904a1ca95779b534852fa2_0/explore?location=54.778675%2C-3.701868%2C10.76]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

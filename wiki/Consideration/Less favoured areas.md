@@ -8,7 +8,7 @@ tags:
 - Tag/LocalInformation
 ---
 
-# Consideration/Less favoured areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Remote and constrained rural areas where funding is provided to farming businesses
 
@@ -16,7 +16,3 @@ Remote and constrained rural areas where funding is provided to farming business
 
 * [Less favoured areas consideration](https://design.planning.data.gov.uk/planning-consideration/less-favoured-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/195)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Priority river habitat - headwater areas
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 River and stream sources that exhibit a high degree of naturalness
 
 ## Links
 
 * [Priority river habitat - headwater areas consideration](https://design.planning.data.gov.uk/planning-consideration/priority-river-habitat-headwater-areas)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

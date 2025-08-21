@@ -14,7 +14,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Metropolitan open land (london)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Open space that contributes to the structure of London
 
@@ -26,7 +26,3 @@ Open space that contributes to the structure of London
 ## Datasets
 
 * [[metropolitan-open-land]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

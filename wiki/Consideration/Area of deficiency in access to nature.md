@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Area of deficiency in access to nature
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas over 1km walking distance from Sites of importance for Nature Conservation (SINCs)
 
@@ -17,7 +17,3 @@ Areas over 1km walking distance from Sites of importance for Nature Conservation
 
 * [Area of deficiency in access to nature consideration](https://design.planning.data.gov.uk/planning-consideration/area-of-deficiency-in-access-to-nature)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/111)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

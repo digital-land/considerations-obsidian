@@ -12,7 +12,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Coastal change management areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas identified as likely to be affected by physical change to the shoreline through erosion
 
@@ -25,7 +25,3 @@ Areas identified as likely to be affected by physical change to the shoreline th
 ## Datasets
 
 * [[coastal-change-management-area]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

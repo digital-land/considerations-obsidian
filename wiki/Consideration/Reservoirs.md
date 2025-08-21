@@ -11,7 +11,7 @@ tags:
 - Tag/Infrastructure
 ---
 
-# Consideration/Reservoirs
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Artificial lakes where water is collected and stored
 
@@ -19,7 +19,3 @@ Artificial lakes where water is collected and stored
 
 * [Reservoirs consideration](https://design.planning.data.gov.uk/planning-consideration/reservoirs)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/244)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

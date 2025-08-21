@@ -24,7 +24,7 @@ useful-links:
   link_url: https://www.gov.uk/search-register-planning-decisions
 ---
 
-# Consideration/Planning applications & decisions
+#Consideration #Stage/Co-Design #Prioritised/True #UpdateFrequency/Daily #OS/Unknown
 
 Records of applications for development and the associated decisions
 
@@ -46,7 +46,3 @@ Records of applications for development and the associated decisions
 * [[planning-application]]
 * [[planning-decision-type]]
 * [[planning-decision]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Daily #OS/Unknown

@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Police stations
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The local headquarters of the police
 
@@ -17,7 +17,3 @@ The local headquarters of the police
 
 * [Police stations consideration](https://design.planning.data.gov.uk/planning-consideration/police-stations)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/227)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

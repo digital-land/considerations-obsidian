@@ -22,7 +22,7 @@ useful-links:
   link_url: https://opendata.arcgis.com/datasets/a14064ca50e242c4a92d020764a6d9df_0.geojson
 ---
 
-# Consideration/Ancient woodlands
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Monthly #OS/Unknown
 
 Areas that have been wooded continuously since at least 1600 AD
 
@@ -37,7 +37,3 @@ Areas that have been wooded continuously since at least 1600 AD
 
 * [[ancient-woodland]]
 * [[ancient-woodland-status]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Monthly #OS/Unknown

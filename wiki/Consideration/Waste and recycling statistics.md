@@ -9,7 +9,7 @@ tags:
 - Tag/Statistics
 ---
 
-# Consideration/Waste and recycling statistics
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Information on waste generation and management
 
@@ -17,7 +17,3 @@ Information on waste generation and management
 
 * [Waste and recycling statistics consideration](https://design.planning.data.gov.uk/planning-consideration/waste-and-recycling-statistics)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/272)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Inner urban improvement area
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Inner urban improvement area consideration](https://design.planning.data.gov.uk/planning-consideration/inner-urban-improvement-area)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

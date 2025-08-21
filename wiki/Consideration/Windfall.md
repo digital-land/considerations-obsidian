@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Windfall
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The number of homes within the Total Housing Requirement that the LPA will reply on windfall delivery for
 
@@ -18,7 +18,3 @@ The number of homes within the Total Housing Requirement that the LPA will reply
 
 * [Windfall consideration](https://design.planning.data.gov.uk/planning-consideration/windfall)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/330)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

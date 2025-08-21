@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Outstanding notices
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Outstanding notices consideration](https://design.planning.data.gov.uk/planning-consideration/outstanding-notices)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

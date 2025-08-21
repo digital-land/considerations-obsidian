@@ -10,7 +10,7 @@ tags:
 - Tag/Landscape
 ---
 
-# Consideration/National trust land – always open
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 National Trust land that the public has access to on foot only
 
@@ -18,7 +18,3 @@ National Trust land that the public has access to on foot only
 
 * [National trust land – always open consideration](https://design.planning.data.gov.uk/planning-consideration/national-trust-land-always-open)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/217)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

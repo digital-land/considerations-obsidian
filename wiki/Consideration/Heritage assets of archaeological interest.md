@@ -11,7 +11,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Heritage assets of archaeological interest
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 An area that holds, or potentially holds, evidence of past human activity worthy of expert investigation
 
@@ -19,7 +19,3 @@ An area that holds, or potentially holds, evidence of past human activity worthy
 
 * [Heritage assets of archaeological interest consideration](https://design.planning.data.gov.uk/planning-consideration/heritage-assets-of-archaeological-interest)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/178)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

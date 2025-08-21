@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Mineral assessment reports
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Mineral assessment reports consideration](https://design.planning.data.gov.uk/planning-consideration/mineral-assessment-reports)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

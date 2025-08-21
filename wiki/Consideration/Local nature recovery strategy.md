@@ -14,7 +14,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Local nature recovery strategy
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Locations to create or improve habitat most likely to provide the greatest benefit for nature and the wider environment
 
@@ -27,7 +27,3 @@ Locations to create or improve habitat most likely to provide the greatest benef
 ## Datasets
 
 * [[local-nature-recovery-strategy]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

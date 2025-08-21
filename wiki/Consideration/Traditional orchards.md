@@ -11,7 +11,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Traditional orchards
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Traditional orchards are priority habitats that are groups of fruit and nut trees planted on vigorous rootstocks at low densities in permanent grassland, and managed in a low intensity way
 
@@ -19,7 +19,3 @@ Traditional orchards are priority habitats that are groups of fruit and nut tree
 
 * [Traditional orchards consideration](https://design.planning.data.gov.uk/planning-consideration/traditional-orchards)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/267)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

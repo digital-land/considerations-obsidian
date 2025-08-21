@@ -11,7 +11,7 @@ tags:
 - Tag/Leisure
 ---
 
-# Consideration/Bowling greens
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Areas of very smooth, short grass on which the game of bowls or lawn bowling is played
 
@@ -19,7 +19,3 @@ Areas of very smooth, short grass on which the game of bowls or lawn bowling is 
 
 * [Bowling greens consideration](https://design.planning.data.gov.uk/planning-consideration/bowling-greens)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Tennis courts
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 Courts or areas with a net across the middle used for playing tennis
 
@@ -19,7 +19,3 @@ Courts or areas with a net across the middle used for playing tennis
 
 * [Tennis courts consideration](https://design.planning.data.gov.uk/planning-consideration/tennis-courts)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

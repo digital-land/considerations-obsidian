@@ -8,7 +8,7 @@ tags:
 - Tag/Amenity
 ---
 
-# Consideration/Archaeological notification area (ana)
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A designated zone where there is known or suspected archaeological interest, requiring additional consideration during the planning process.
 
@@ -16,7 +16,3 @@ A designated zone where there is known or suspected archaeological interest, req
 
 * [Archaeological notification area (ana) consideration](https://design.planning.data.gov.uk/planning-consideration/archaeological-notification-area)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/324)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -19,7 +19,7 @@ useful-links:
   link_url: https://historicengland.org.uk/content/data-downloads-gis/battlefields/
 ---
 
-# Consideration/Battlefields
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/Fortnightly #OS/Unknown
 
 Areas registered with Historic England as a battlefield of historical significance
 
@@ -33,7 +33,3 @@ Areas registered with Historic England as a battlefield of historical significan
 ## Datasets
 
 * [[battlefield]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/Fortnightly #OS/Unknown

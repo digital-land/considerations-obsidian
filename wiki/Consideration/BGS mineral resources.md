@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/BGS mineral resources
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The geological distribution of all onshore mineral resources
 
 ## Links
 
 * [BGS mineral resources consideration](https://design.planning.data.gov.uk/planning-consideration/bgs-mineral-resources)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

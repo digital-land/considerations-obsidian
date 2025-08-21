@@ -11,7 +11,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Historic stone quarry
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Area where quarrying of stone was previously carried out
 
@@ -23,7 +23,3 @@ Area where quarrying of stone was previously carried out
 ## Datasets
 
 * [[historic-stone-quarry]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -10,7 +10,7 @@ useful-links:
   link_url: https://www.metoffice.gov.uk/services/data/datapoint
 ---
 
-# Consideration/Weather forecasting
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A prediction of what the weather will be like in an hour, tomorrow, or further in the future
 
@@ -18,7 +18,3 @@ A prediction of what the weather will be like in an hour, tomorrow, or further i
 
 * [Weather forecasting consideration](https://design.planning.data.gov.uk/planning-consideration/weather-forecasting)
 * [National dataset documentation page](https://www.metoffice.gov.uk/services/data/datapoint)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

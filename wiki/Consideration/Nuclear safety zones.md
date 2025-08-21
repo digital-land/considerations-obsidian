@@ -10,7 +10,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Nuclear safety zones
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -21,7 +21,3 @@ tags:
 ## Datasets
 
 * [[nuclear-safety-zone]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

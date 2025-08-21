@@ -16,7 +16,7 @@ useful-links:
   link_url: https://beta.ordnancesurvey.co.uk/products/code-point-open
 ---
 
-# Consideration/Postcodes
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Quarterly #OS/Unknown
 
 A series of letters and numbers designated to an address for sorting mail
 
@@ -26,7 +26,3 @@ A series of letters and numbers designated to an address for sorting mail
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/71)
 * [Unknown](https://www.ons.gov.uk/methodology/geography/licences)
 * [National dataset documentation page](https://beta.ordnancesurvey.co.uk/products/code-point-open)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Quarterly #OS/Unknown

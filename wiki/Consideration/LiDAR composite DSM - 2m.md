@@ -10,7 +10,7 @@ useful-links:
   link_url: https://ckan.publishing.service.gov.uk/dataset/lidar-composite-dsm-2017-2m
 ---
 
-# Consideration/LiDAR composite DSM - 2m
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -18,7 +18,3 @@ useful-links:
 
 * [LiDAR composite DSM - 2m consideration](https://design.planning.data.gov.uk/planning-consideration/lidar-composite-dsm-2m)
 * [National dataset documentation page](https://ckan.publishing.service.gov.uk/dataset/lidar-composite-dsm-2017-2m)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -12,7 +12,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Area of archaeological importance
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas designated to protect archaeological remains from being damaged or destroyed
 
@@ -21,7 +21,3 @@ Areas designated to protect archaeological remains from being damaged or destroy
 * [Area of archaeological importance consideration](https://design.planning.data.gov.uk/planning-consideration/area-of-archaeological-importance)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/110)
 * [Legislation](https://www.legislation.gov.uk/ukpga/1979/46)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -10,7 +10,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Total housing requirement
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 This is the minimum number of homes that the plan seeks to provide during the plan period.
 
@@ -18,7 +18,3 @@ This is the minimum number of homes that the plan seeks to provide during the pl
 
 * [Total housing requirement consideration](https://design.planning.data.gov.uk/planning-consideration/total-housing-requirement)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/326)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

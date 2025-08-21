@@ -9,7 +9,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Pollinator corridors
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A corridor of native plants that connects different areas of habitat, providing nutrition and homes for pollinators
 
@@ -17,7 +17,3 @@ A corridor of native plants that connects different areas of habitat, providing 
 
 * [Pollinator corridors consideration](https://design.planning.data.gov.uk/planning-consideration/pollinator-corridors)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/228)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

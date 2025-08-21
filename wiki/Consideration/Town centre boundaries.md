@@ -7,14 +7,10 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Town centre boundaries
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Location, extent and function of retail areas
 
 ## Links
 
 * [Town centre boundaries consideration](https://design.planning.data.gov.uk/planning-consideration/town-centre-boundaries)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

@@ -11,7 +11,7 @@ tags:
 - Tag/PDR
 ---
 
-# Consideration/Religious buildings
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Structures created for worship
 
@@ -19,7 +19,3 @@ Structures created for worship
 
 * [Religious buildings consideration](https://design.planning.data.gov.uk/planning-consideration/religious-buildings)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

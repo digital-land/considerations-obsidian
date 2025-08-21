@@ -8,7 +8,7 @@ tags:
 - Tag/HousingSupplyAndDelivery
 ---
 
-# Consideration/Annual position statement
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -16,7 +16,3 @@ tags:
 
 * [Annual position statement consideration](https://design.planning.data.gov.uk/planning-consideration/annual-position-statement)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/285)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

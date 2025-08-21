@@ -17,7 +17,7 @@ useful-links:
   link_url: https://www.camden.gov.uk/assets-of-community-value#dfmo
 ---
 
-# Consideration/Assets of community value
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Buildings or pieces of land that are used for the social wellbeing and interests of the local community
 
@@ -31,7 +31,3 @@ Buildings or pieces of land that are used for the social wellbeing and interests
 ## Datasets
 
 * [[asset-of-community-value]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

@@ -32,7 +32,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/conserving-and-enhancing-the-historic-environment
 ---
 
-# Consideration/Conservation areas
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/PresumptionToPublish
 
 An area of special architectural or historic interest with a character or appearance that must be preserved or enhanced
 
@@ -51,7 +51,3 @@ An area of special architectural or historic interest with a character or appear
 * [[conservation-area]]
 * [[conservation-area-document]]
 * [[conservation-area-document-type]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/PresumptionToPublish

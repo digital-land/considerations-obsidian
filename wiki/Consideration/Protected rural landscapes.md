@@ -10,7 +10,7 @@ tags:
 - Tag/Landscape
 ---
 
-# Consideration/Protected rural landscapes
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -18,7 +18,3 @@ tags:
 
 * [Protected rural landscapes consideration](https://design.planning.data.gov.uk/planning-consideration/protected-rural-landscapes)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/236)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

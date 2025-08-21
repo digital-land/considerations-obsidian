@@ -12,7 +12,7 @@ tags:
 - Tag/SafeguardedLand
 ---
 
-# Consideration/Mineral safeguarding areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas where known deposits of minerals are safeguarded
 
@@ -24,7 +24,3 @@ Areas where known deposits of minerals are safeguarded
 ## Datasets
 
 * [[mineral-safeguarding-area]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

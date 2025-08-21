@@ -11,7 +11,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Hazardous substance contravention notice
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A hazardous substance contravention notice can be issued to a person who does not have the consent to store hazardous substances
 
@@ -20,7 +20,3 @@ A hazardous substance contravention notice can be issued to a person who does no
 * [Hazardous substance contravention notice consideration](https://design.planning.data.gov.uk/planning-consideration/hazardous-substance-contravention-notice)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/175)
 * [Legislation](https://www.legislation.gov.uk/uksi/2015/483/contents/made)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

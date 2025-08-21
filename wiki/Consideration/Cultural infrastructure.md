@@ -11,7 +11,7 @@ tags:
 - Tag/Infrastructure
 ---
 
-# Consideration/Cultural infrastructure
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Places, spaces, and buildings where cultural activities take place.
 
@@ -19,7 +19,3 @@ Places, spaces, and buildings where cultural activities take place.
 
 * [Cultural infrastructure consideration](https://design.planning.data.gov.uk/planning-consideration/cultural-infrastructure)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/145)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

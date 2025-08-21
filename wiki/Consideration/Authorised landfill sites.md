@@ -9,7 +9,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Authorised landfill sites
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas of land that are used to dump rubbish, either directly on the ground or filling in an unwanted hole
 
@@ -17,7 +17,3 @@ Areas of land that are used to dump rubbish, either directly on the ground or fi
 
 * [Authorised landfill sites consideration](https://design.planning.data.gov.uk/planning-consideration/authorised-landfill-sites)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/114)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

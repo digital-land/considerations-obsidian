@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/School catchment areas
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Geographical area surrounding a school from which it will usually take most of its pupils
 
@@ -19,7 +19,3 @@ Geographical area surrounding a school from which it will usually take most of i
 
 * [School catchment areas consideration](https://design.planning.data.gov.uk/planning-consideration/school-catchment-areas)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/248)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

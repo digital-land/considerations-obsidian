@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Probable coal mining
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Locations and estimated extents of probable shallow coal mines for which no recorded plan exists
 
 ## Links
 
 * [Probable coal mining consideration](https://design.planning.data.gov.uk/planning-consideration/probable-coal-mining)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

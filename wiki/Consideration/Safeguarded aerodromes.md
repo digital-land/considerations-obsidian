@@ -10,7 +10,7 @@ tags:
 - Tag/
 ---
 
-# Consideration/Safeguarded aerodromes
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Areas designed to protect aircraft from obstacles when manoeuvring on the ground, taking off, landing or flying in the vicinity of the aerodrome
 
@@ -21,7 +21,3 @@ Areas designed to protect aircraft from obstacles when manoeuvring on the ground
 ## Datasets
 
 * [[safeguarded-aerodrome]]
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

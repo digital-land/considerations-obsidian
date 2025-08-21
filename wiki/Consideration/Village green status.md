@@ -9,7 +9,7 @@ tags:
 - Tag/Landscape
 ---
 
-# Consideration/Village green status
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
@@ -17,7 +17,3 @@ tags:
 
 * [Village green status consideration](https://design.planning.data.gov.uk/planning-consideration/village-green-status)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/286)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

@@ -10,7 +10,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Development corporation
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Statutory bodies set up to regenerate a designated area - once designated, they become the planning authority
 
@@ -19,7 +19,3 @@ Statutory bodies set up to regenerate a designated area - once designated, they 
 * [Development corporation consideration](https://design.planning.data.gov.uk/planning-consideration/development-corporation)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/148)
 * [Legislation](https://www.legislation.gov.uk/ukpga/2016/1/enacted)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

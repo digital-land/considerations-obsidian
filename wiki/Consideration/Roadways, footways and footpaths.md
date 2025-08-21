@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/Roadways, footways and footpaths
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [Roadways, footways and footpaths consideration](https://design.planning.data.gov.uk/planning-consideration/roadways-footways-and-footpaths)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

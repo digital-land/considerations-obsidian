@@ -18,7 +18,7 @@ useful-links:
   link_url: https://get-information-schools.service.gov.uk/
 ---
 
-# Consideration/Educational establishment
+#Consideration #Stage/TestAndIterate #Prioritised/False #UpdateFrequency/Weekly #OS/Unknown
 
 Educational establishments in the UK including nurseries, primary and secondary schools
 
@@ -31,7 +31,3 @@ Educational establishments in the UK including nurseries, primary and secondary 
 ## Datasets
 
 * [[educational-establishment]]
-
-## Tags
-
-#Consideration #Stage/TestAndIterate #UpdateFrequency/Weekly #OS/Unknown

@@ -10,7 +10,7 @@ tags:
 - Tag/PlanningPermission
 ---
 
-# Consideration/Use class
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Legal framework which determines what a particular property may be used for by its lawful occupants
 
@@ -18,7 +18,3 @@ Legal framework which determines what a particular property may be used for by i
 
 * [Use class consideration](https://design.planning.data.gov.uk/planning-consideration/use-class)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/270)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

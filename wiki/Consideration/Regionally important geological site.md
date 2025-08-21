@@ -11,7 +11,7 @@ tags:
 - Tag/PoliciesMap
 ---
 
-# Consideration/Regionally important geological site
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Regionally important geological sites (RIGS) are the most important designated sites for geology and geomorphology, representing educational, historical and recreational resources. In London, RIGS sites should be protected as set out in Policy G9 of the London Plan
 
@@ -19,7 +19,3 @@ Regionally important geological sites (RIGS) are the most important designated s
 
 * [Regionally important geological site consideration](https://design.planning.data.gov.uk/planning-consideration/regionally-important-geological-site)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/243)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

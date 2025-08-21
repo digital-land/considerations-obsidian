@@ -11,7 +11,7 @@ tags:
 - Tag/Opportunity
 ---
 
-# Consideration/Employment allocations
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Sites that have been identified for employment use
 
@@ -23,7 +23,3 @@ Sites that have been identified for employment use
 ## Datasets
 
 * [[employment-allocation]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

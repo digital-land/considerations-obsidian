@@ -11,7 +11,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/Cemetery
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Every6Months #OS/Unknown
 
 A cemetery provided and maintained by a burial authority
 
@@ -19,7 +19,3 @@ A cemetery provided and maintained by a burial authority
 
 * [Cemetery consideration](https://design.planning.data.gov.uk/planning-consideration/cemetery)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/64)
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Every6Months #OS/Unknown

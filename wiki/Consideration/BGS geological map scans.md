@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/BGS geological map scans
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 
 
 ## Links
 
 * [BGS geological map scans consideration](https://design.planning.data.gov.uk/planning-consideration/bgs-geological-map-scans)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

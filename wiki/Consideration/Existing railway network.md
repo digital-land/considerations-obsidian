@@ -12,7 +12,7 @@ tags:
 - Tag/NIST
 ---
 
-# Consideration/Existing railway network
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 The existing railway network.
 
@@ -20,7 +20,3 @@ The existing railway network.
 
 * [Existing railway network consideration](https://design.planning.data.gov.uk/planning-consideration/existing-railway-network)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/160)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

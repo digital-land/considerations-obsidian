@@ -26,7 +26,7 @@ useful-links:
   link_url: https://www.gov.uk/guidance/tree-preservation-orders-and-trees-in-conservation-areas
 ---
 
-# Consideration/Tree preservation orders
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/AdHoc #OS/PresumptionToPublish
 
 The order document that protects a tree or group of trees
 
@@ -45,7 +45,3 @@ The order document that protects a tree or group of trees
 * [[tree-preservation-zone-type]]
 * [[tree-preservation-zone]]
 * [[tree]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/AdHoc #OS/PresumptionToPublish

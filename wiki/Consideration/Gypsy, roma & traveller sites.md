@@ -17,7 +17,7 @@ useful-links:
   link_url: https://www.gov.uk/government/publications/planning-policy-for-traveller-sites
 ---
 
-# Consideration/Gypsy, roma & traveller sites
+#Consideration #Stage/Co-Design #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 An area of land where gypsy, Roma and traveller communities live which may be owned and managed privately or by the council
 
@@ -30,7 +30,3 @@ An area of land where gypsy, Roma and traveller communities live which may be ow
 ## Datasets
 
 * [[gypsy-and-traveller-site]]
-
-## Tags
-
-#Consideration #Stage/Co-Design #UpdateFrequency/Unknown #OS/Unknown

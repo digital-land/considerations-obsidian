@@ -7,14 +7,10 @@ tags:
 - Tag/
 ---
 
-# Consideration/National flood and coastal erosion risk management strategy
+#Consideration #Stage/Archived #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Strategy for flooding and coastal change resilience
 
 ## Links
 
 * [National flood and coastal erosion risk management strategy consideration](https://design.planning.data.gov.uk/planning-consideration/national-flood-and-coastal-erosion-risk-management-strategy)
-
-## Tags
-
-#Consideration #Stage/Archived #UpdateFrequency/Unknown #OS/Unknown

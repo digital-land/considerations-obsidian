@@ -16,7 +16,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/World heritage sites
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 A natural or man-made site, area, or structure that is protected because of its international importance
 
@@ -29,7 +29,3 @@ A natural or man-made site, area, or structure that is protected because of its 
 
 * [[world-heritage-site-buffer-zone]]
 * [[world-heritage-site]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown

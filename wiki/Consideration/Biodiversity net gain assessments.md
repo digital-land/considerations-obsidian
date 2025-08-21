@@ -12,7 +12,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Biodiversity net gain assessments
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 A biodiversity net gain assessment compares baseline conditions to post-development plans. Biodiversity net gain is achieved if the post-development plans provide a net improvement to the biodiversity of a site
 
@@ -25,7 +25,3 @@ A biodiversity net gain assessment compares baseline conditions to post-developm
 ## Datasets
 
 * [[biodiversity-net-gain-assessment]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

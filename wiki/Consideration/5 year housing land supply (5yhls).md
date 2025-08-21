@@ -9,7 +9,7 @@ tags:
 - Tag/LocalPlan
 ---
 
-# Consideration/5 year housing land supply (5yhls)
+#Consideration #Stage/Research #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Data about sites where they are expected to come forward to build-out within the next five years
 
@@ -17,7 +17,3 @@ Data about sites where they are expected to come forward to build-out within the
 
 * [5 year housing land supply (5yhls) consideration](https://design.planning.data.gov.uk/planning-consideration/5-year-housing-land-supply)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/102)
-
-## Tags
-
-#Consideration #Stage/Research #UpdateFrequency/Unknown #OS/Unknown

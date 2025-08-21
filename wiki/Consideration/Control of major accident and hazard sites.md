@@ -13,7 +13,7 @@ tags:
 - Tag/DevelopmentRisk
 ---
 
-# Consideration/Control of major accident and hazard sites
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Sites storing or handling large quantities of chemicals or hazardous substances that are covered by the Control of Major Accident Hazards (COMAH) Regulations
 
@@ -26,7 +26,3 @@ Sites storing or handling large quantities of chemicals or hazardous substances 
 ## Datasets
 
 * [[control-of-major-accident-hazards-site]]
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

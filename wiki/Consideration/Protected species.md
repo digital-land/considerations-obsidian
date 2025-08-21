@@ -10,7 +10,7 @@ tags:
 - Tag/Environmental
 ---
 
-# Consideration/Protected species
+#Consideration #Stage/Backlog #Prioritised/False #UpdateFrequency/Unknown #OS/Unknown
 
 Threatened, vulnerable or endangered species which are protected from extinction
 
@@ -18,7 +18,3 @@ Threatened, vulnerable or endangered species which are protected from extinction
 
 * [Protected species consideration](https://design.planning.data.gov.uk/planning-consideration/protected-species)
 * [GitHub discussion](https://github.com/digital-land/data-standards-backlog/discussions/237)
-
-## Tags
-
-#Consideration #Stage/Backlog #UpdateFrequency/Unknown #OS/Unknown

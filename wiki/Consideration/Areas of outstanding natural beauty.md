@@ -23,7 +23,7 @@ useful-links:
   link_url: https://opendata.arcgis.com/datasets/6f2ad07d91304ad79cdecd52489d5046_0.geojson
 ---
 
-# Consideration/Areas of outstanding natural beauty
+#Consideration #Stage/OnThePlatform #Prioritised/False #UpdateFrequency/AdHoc #OS/Unknown
 
 Land protected by law to conserve and enhance its natural beauty
 
@@ -38,7 +38,3 @@ Land protected by law to conserve and enhance its natural beauty
 ## Datasets
 
 * [[area-of-outstanding-natural-beauty]]
-
-## Tags
-
-#Consideration #Stage/OnThePlatform #UpdateFrequency/AdHoc #OS/Unknown
