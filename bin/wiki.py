@@ -92,6 +92,7 @@ if __name__ == "__main__":
         content += "\n## Tags\n\n"
         content += "#Consideration"
         content += " #" + asTag(headers.get("stage", "Unknown"), "Stage/")
+        content += " #" + asTag(headers.get("prioritised", "Unknown"), "Prioritised/")
         content += " #" + asTag(
             headers.get("frequency-of-updates", "Unknown"), "UpdateFrequency/"
         )
